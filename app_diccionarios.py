@@ -11,11 +11,8 @@ diccionario_positivo = diccionario_positivo()
 # EXTRACCIÓN DE TWEETS
 data = pd.read_csv("model/tweets.csv")
 tweets = data[data.columns[1]]
-
-# LUEGO BORRAR SOLO PROBANDO CON LOS PRIMEROS 20
-respaldo = tweets[:20]
-tweets = tweets[:20]
-# LUEGO BORRAR SOLO PROBANDO CON LOS PRIMEROS 20
+respaldo = tweets
+# tweets = tweets[:20]
 
 # NLP
 tweets = tweets.values.tolist()
