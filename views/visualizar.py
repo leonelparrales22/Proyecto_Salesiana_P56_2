@@ -19,7 +19,7 @@ import matplotlib.pyplot as plt
 
 
 def ver():
-    data = pd.read_csv("../Proyecto_Salesiana_P56_2/results/clasificacion_coseno_vectorial.csv",error_bad_lines=False)
+    data = pd.read_csv("../results/clasificacion_coseno_vectorial.csv",error_bad_lines=False)
     coseno = np.array(data)
     id=[]
     sentimiento=[]
@@ -33,7 +33,7 @@ def ver():
     return datos
 
 def ver1():
-    dato = pd.read_csv("../Proyecto_Salesiana_P56_2/results/clasificacion_jaccard.csv",error_bad_lines=False)
+    dato = pd.read_csv("../results/clasificacion_jaccard.csv",error_bad_lines=False)
     jaccard = np.array(dato)
     id=[]
     sentimiento=[]
@@ -47,7 +47,7 @@ def ver1():
     return dato
 
 def ver2():
-    dato = pd.read_csv("../Proyecto_Salesiana_P56_2/results/clasificacion_arboles.csv",error_bad_lines=False)
+    dato = pd.read_csv("../results/clasificacion_arboles.csv",error_bad_lines=False)
     jaccard = np.array(dato)
     id=[]
     sentimiento=[]
@@ -61,7 +61,7 @@ def ver2():
     return dato
 
 def ver3():
-    dato = pd.read_csv("../Proyecto_Salesiana_P56_2/results/clasificacion_textbloob.csv",error_bad_lines=False)
+    dato = pd.read_csv("../results/clasificacion_textbloob.csv",error_bad_lines=False)
     jaccard = np.array(dato)
     id=[]
     sentimiento=[]
