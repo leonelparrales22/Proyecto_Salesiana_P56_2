@@ -3,6 +3,7 @@ import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
 
+
 # def ver():
 #     x=[0.1,0.2,0.5,1.0,2.0,5.0,10.0]
 #     y=[10.0,5.0,2.0,1.0,0.5,0.2,0.1]
@@ -18,58 +19,61 @@ import matplotlib.pyplot as plt
 #     return grafica
 
 
-def ver():
-    data = pd.read_csv("../results/clasificacion_coseno_vectorial.csv",error_bad_lines=False)
+def tabla_coseno_vectorial():
+    data = pd.read_csv("../results/clasificacion_coseno_vectorial.csv", error_bad_lines=False)
     coseno = np.array(data)
-    id=[]
-    sentimiento=[]
-    tweet=[]
-    
-    for row in coseno: 
+    id = []
+    sentimiento = []
+    tweet = []
+
+    for row in coseno:
         id.append(row[0])
         sentimiento.append(row[1])
         tweet.append(row[2])
-        datos = {'id':id, 'sentimiento':sentimiento,'tweet': tweet} 
+        datos = {'id': id, 'sentimiento': sentimiento, 'tweet': tweet}
     return datos
 
-def ver1():
-    dato = pd.read_csv("../results/clasificacion_jaccard.csv",error_bad_lines=False)
+
+def tabla_jaccard():
+    dato = pd.read_csv("../results/clasificacion_jaccard.csv", error_bad_lines=False)
     jaccard = np.array(dato)
-    id=[]
-    sentimiento=[]
-    tweet=[]
-    
-    for row in jaccard: 
+    id = []
+    sentimiento = []
+    tweet = []
+
+    for row in jaccard:
         id.append(row[0])
         sentimiento.append(row[1])
         tweet.append(row[2])
-        dato = {'id':id, 'sentimiento':sentimiento,'tweet': tweet} 
+        dato = {'id': id, 'sentimiento': sentimiento, 'tweet': tweet}
     return dato
 
-def ver2():
-    dato = pd.read_csv("../results/clasificacion_arboles.csv",error_bad_lines=False)
+
+def tabla_arboles():
+    dato = pd.read_csv("../results/clasificacion_arboles.csv", error_bad_lines=False)
     jaccard = np.array(dato)
-    id=[]
-    sentimiento=[]
-    tweet=[]
-    
-    for row in jaccard: 
+    id = []
+    sentimiento = []
+    tweet = []
+
+    for row in jaccard:
         id.append(row[0])
         sentimiento.append(row[1])
         tweet.append(row[2])
-        dato = {'id':id, 'sentimiento':sentimiento,'tweet': tweet} 
+        dato = {'id': id, 'sentimiento': sentimiento, 'tweet': tweet}
     return dato
 
-def ver3():
-    dato = pd.read_csv("../results/clasificacion_textbloob.csv",error_bad_lines=False)
+
+def tabla_textbloob():
+    dato = pd.read_csv("../results/clasificacion_textbloob.csv", error_bad_lines=False)
     jaccard = np.array(dato)
-    id=[]
-    sentimiento=[]
-    tweet=[]
-    
-    for row in jaccard: 
+    id = []
+    sentimiento = []
+    tweet = []
+
+    for row in jaccard:
         id.append(row[0])
         sentimiento.append(row[1])
         tweet.append(row[2])
-        dato = {'id':id, 'sentimiento':sentimiento,'tweet': tweet} 
+        dato = {'id': id, 'sentimiento': sentimiento, 'tweet': tweet}
     return dato
