@@ -1,30 +1,20 @@
-from scipy.interpolate import InterpolatedUnivariateSpline
 from model.conexion_twitter import *
 from app_diccionarios import *
+from app_textbloob import *
 import numpy as np
 import pandas as pd
-import matplotlib.pyplot as plt
 
 
-# def ver():
-#     x=[0.1,0.2,0.5,1.0,2.0,5.0,10.0]
-#     y=[10.0,5.0,2.0,1.0,0.5,0.2,0.1]
-
-#     f_interp= InterpolatedUnivariateSpline(x,y, k=3)
-#     f_interp
-
-#     x1=np.linspace(0.1,10)
-#     y_interp=f_interp(x1)
-#     plt.plot(x,y,'x',mew=3)
-#     grafica=plt.plot(x1,y_interp)
-
-#     return grafica
-
-
-def tabla_coseno_vectorial(texto):
+def refrescar_data(texto):
     if texto != "":
         buscar_tweets(texto)
         run_diccionarios()
+        run_textbloob2()
+        # run_textbloob()
+
+
+def tabla_coseno_vectorial(texto):
+    refrescar_data(texto)
     data = pd.read_csv("results/clasificacion_coseno_vectorial.csv", error_bad_lines=False)
     coseno = np.array(data)
     id = []
@@ -39,7 +29,8 @@ def tabla_coseno_vectorial(texto):
     return datos
 
 
-def tabla_jaccard():
+def tabla_jaccard(texto):
+    refrescar_data(texto)
     dato = pd.read_csv("results/clasificacion_jaccard.csv", error_bad_lines=False)
     jaccard = np.array(dato)
     id = []
@@ -69,7 +60,8 @@ def tabla_arboles():
     return dato
 
 
-def tabla_textbloob():
+def tabla_textbloob(texto):
+    refrescar_data(texto)
     dato = pd.read_csv("results/clasificacion_textbloob.csv", error_bad_lines=False)
     jaccard = np.array(dato)
     id = []

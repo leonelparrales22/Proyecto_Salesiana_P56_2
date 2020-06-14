@@ -1,12 +1,9 @@
 from flask import Flask, render_template, request
+from visualizar import *
 import io
-import random
-import pandas as pd
-import numpy as np
 from flask import Response
 from matplotlib.backends.backend_agg import FigureCanvasAgg as FigureCanvas
-from matplotlib.figure import Figure
-from visualizar import *
+import matplotlib.pyplot as plt
 
 app = Flask(__name__)
 
@@ -20,11 +17,14 @@ def plot_png():
 
 
 def create_figure():
-    fig = Figure()
-    axis = fig.add_subplot(1, 1, 1)
-    xs = [0.1, 0.2, 0.5, 1.0, 2.0, 5.0, 10.0]
-    ys = [10.0, 5.0, 2.0, 1.0, 0.5, 0.2, 0.1]
-    axis.plot(xs, ys)
+    labels = 'Neutros', 'Negativos', 'Positivos'
+    sizes = [50, 25, 25]
+    explode = (0, 0, 0)
+    fig, ax1 = plt.subplots()
+    fig.suptitle('Clasificación de Tweets - Coseno Vectorial', fontsize=16)
+    ax1.pie(sizes, explode=explode, labels=labels, autopct='%1.1f%%',
+            shadow=True, startangle=90)
+    ax1.axis('equal')
     return fig
 
 
@@ -35,7 +35,8 @@ def index() -> 'html':
 
 @app.route('/textblood', strict_slashes=False)
 def textblood():
-    return render_template("textblood.html", title="Clasificacion TextBlood", tabla=tabla_textbloob())
+    texto = parametro_texto()
+    return render_template("textblood.html", title="Clasificacion TextBlood", tabla=tabla_textbloob(texto))
 
 
 @app.route('/regresion', strict_slashes=False)
@@ -48,17 +49,21 @@ def coseno() -> 'html':
     texto = ""
     if request.method == "POST":
         texto = request.form['tweet']
-        if texto == "":
-            print("NO LLEGO NADA")
-        else:
-            print("HolaLeonel", texto)
     return render_template('coseno.html', title="Clasificacion Coseno Vectorial", tabla=tabla_coseno_vectorial(texto))
 
 
-@app.route('/jaccard', methods=['GET'])
+@app.route('/jaccard', methods=['GET', 'POST'])
 def jaccard() -> 'html':
-    return render_template('jaccard.html', title="Clasificacion Jaccard", tabla=tabla_jaccard())
+    texto = parametro_texto()
+    return render_template('jaccard.html', title="Clasificacion Jaccard", tabla=tabla_jaccard(texto))
+
+
+def parametro_texto():
+    texto = ""
+    if request.method == "POST":
+        texto = request.form['tweet']
+    return texto
 
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run()

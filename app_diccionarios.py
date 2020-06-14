@@ -4,24 +4,25 @@ from controller.nlp import *
 from controller.csv import *
 import pandas as pd
 
-# GENERACION DE DICCIONARIOS
-diccionario_negativo = diccionario_negativo()
-diccionario_positivo = diccionario_positivo()
 
-# EXTRACCIÓN DE TWEETS
-data = pd.read_csv("model/tweets.csv")
-tweets = data[data.columns[1]]
-respaldo = tweets
-# tweets = tweets[:20]
+def run_diccionarios():
+    # GENERACION DE DICCIONARIOS
+    negativas = diccionario_negativo()
+    positivas = diccionario_positivo()
 
-# NLP
-tweets = tweets.values.tolist()
-tweets = nlp(tweets)
+    # EXTRACCIÓN DE TWEETS
+    data = pd.read_csv("model/tweets.csv")
+    tweets = data[data.columns[1]]
+    respaldo = tweets
+    # tweets = tweets[:20]
 
-# CLASIFICACION
-data = clasificacion_coseno_vectorial(tweets, respaldo, diccionario_positivo, diccionario_negativo)
-toCSV("results/clasificacion_coseno_vectorial.csv", data)
-data = clasificacion_jaccard(tweets, respaldo, diccionario_positivo, diccionario_negativo)
-toCSV("results/clasificacion_jaccard.csv", data)
+    # NLP
+    tweets = tweets.values.tolist()
+    tweets = nlp(tweets)
 
-print("Resultados Generados!")
+    # CLASIFICACION
+    data = clasificacion_coseno_vectorial(tweets, respaldo, positivas, negativas)
+    toCSV("results/clasificacion_coseno_vectorial.csv", data)
+    data = clasificacion_jaccard(tweets, respaldo, positivas, negativas)
+    toCSV("results/clasificacion_jaccard.csv", data)
+    print("Resultados Generados!")

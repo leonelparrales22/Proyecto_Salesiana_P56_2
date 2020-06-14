@@ -100,6 +100,10 @@ def similitud_coseno_vectorial(vector):
 def clasificacion_coseno_vectorial(tweets, respaldo, diccionario_positivo, diccionario_negativo):
     data = []
     contador = 1
+    contador_positivos = 0
+    contador_negativos = 0
+    contador_neutros = 0
+
     for x, y in zip(tweets, respaldo):
         textos = [x, diccionario_positivo]
         similitud_positiva = similitud_coseno_vectorial(textos)
@@ -108,12 +112,20 @@ def clasificacion_coseno_vectorial(tweets, respaldo, diccionario_positivo, dicci
         # CLASIFICADOR:
         if similitud_positiva > similitud_negativa:
             sentimiento = "POSITIVO"
+            contador_positivos += 1
         if similitud_positiva < similitud_negativa:
             sentimiento = "NEGATIVO"
+            contador_negativos += 1
         if similitud_positiva == similitud_negativa:
             sentimiento = "NEUTRO"
+            contador_neutros += 1
         data.append(str(contador) + ";" + sentimiento + ";" + y.replace('\n', ' '))
         contador += 1
+    contador = contador - 1
+    contador_positivos = contador_positivos / contador
+    contador_negativos = contador_negativos / contador
+    contador_neutros = contador_neutros / contador
+    print(contador_positivos, contador_negativos, contador_neutros)
     return data
 
 
@@ -126,16 +138,27 @@ def jaccard(list1, list2):
 def clasificacion_jaccard(tweets, respaldo, diccionario_positivo, diccionario_negativo):
     data = []
     contador = 1
+    contador_positivos = 0
+    contador_negativos = 0
+    contador_neutros = 0
     for x, y in zip(tweets, respaldo):
         similitud_positiva = jaccard(x, diccionario_positivo)
         similitud_negativa = jaccard(x, diccionario_negativo)
         # CLASIFICADOR:
         if similitud_positiva > similitud_negativa:
             sentimiento = "POSITIVO"
+            contador_positivos += 1
         if similitud_positiva < similitud_negativa:
             sentimiento = "NEGATIVO"
+            contador_negativos += 1
         if similitud_positiva == similitud_negativa:
             sentimiento = "NEUTRO"
+            contador_neutros += 1
         data.append(str(contador) + ";" + sentimiento + ";" + y.replace('\n', ' '))
         contador += 1
+    contador = contador - 1
+    contador_positivos = contador_positivos / contador
+    contador_negativos = contador_negativos / contador
+    contador_neutros = contador_neutros / contador
+    print(contador_positivos, contador_negativos, contador_neutros)
     return data
