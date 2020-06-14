@@ -125,7 +125,7 @@ def clasificacion_coseno_vectorial(tweets, respaldo, diccionario_positivo, dicci
     contador_positivos = contador_positivos / contador
     contador_negativos = contador_negativos / contador
     contador_neutros = contador_neutros / contador
-    print(contador_positivos, contador_negativos, contador_neutros)
+    data.append(str(contador_positivos) + ";" + str(contador_negativos) + ";" + str(contador_neutros))
     return data
 
 
@@ -160,5 +160,5 @@ def clasificacion_jaccard(tweets, respaldo, diccionario_positivo, diccionario_ne
     contador_positivos = contador_positivos / contador
     contador_negativos = contador_negativos / contador
     contador_neutros = contador_neutros / contador
-    print(contador_positivos, contador_negativos, contador_neutros)
+    data.append(str(contador_positivos) + ";" + str(contador_negativos) + ";" + str(contador_neutros))
     return data

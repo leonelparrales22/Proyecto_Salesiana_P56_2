@@ -8,20 +8,39 @@ import matplotlib.pyplot as plt
 app = Flask(__name__)
 
 
-@app.route('/plot.png')
-def plot_png():
-    fig = create_figure()
+@app.route('/plot_coseno.png')
+def plot_coseno():
+    fig = create_figure("Coseno Vectorial", "results/clasificacion_coseno_vectorial.csv")
     output = io.BytesIO()
     FigureCanvas(fig).print_png(output)
     return Response(output.getvalue(), mimetype='image/png')
 
 
-def create_figure():
+@app.route('/plot_jaccard.png')
+def plot_jaccard():
+    fig = create_figure("Jaccard", "results/clasificacion_jaccard.csv")
+    output = io.BytesIO()
+    FigureCanvas(fig).print_png(output)
+    return Response(output.getvalue(), mimetype='image/png')
+
+
+@app.route('/plot_textblood.png')
+def plot_textblood():
+    fig = create_figure("TextBlob", "results/clasificacion_textbloob.csv")
+    output = io.BytesIO()
+    FigureCanvas(fig).print_png(output)
+    return Response(output.getvalue(), mimetype='image/png')
+
+
+def create_figure(titulo, ruta):
+    data = pd.read_csv(ruta, error_bad_lines=False)
+    data = data.values.tolist()
+    data = data[-1]
     labels = 'Neutros', 'Negativos', 'Positivos'
-    sizes = [50, 25, 25]
+    sizes = [data[2], data[1], data[0]]
     explode = (0, 0, 0)
     fig, ax1 = plt.subplots()
-    fig.suptitle('Clasificación de Tweets - Coseno Vectorial', fontsize=16)
+    fig.suptitle('Clasificación de Tweets - ' + titulo, fontsize=16)
     ax1.pie(sizes, explode=explode, labels=labels, autopct='%1.1f%%',
             shadow=True, startangle=90)
     ax1.axis('equal')
@@ -33,7 +52,7 @@ def index() -> 'html':
     return render_template("index.html")
 
 
-@app.route('/textblood', strict_slashes=False)
+@app.route('/textblood', methods=['GET', 'POST'], strict_slashes=False)
 def textblood():
     texto = parametro_texto()
     return render_template("textblood.html", title="Clasificacion TextBlood", tabla=tabla_textbloob(texto))
@@ -66,4 +85,4 @@ def parametro_texto():
 
 
 if __name__ == '__main__':
-    app.run()
+    app.run(debug=True)
