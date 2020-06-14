@@ -1,13 +1,17 @@
 {% extends "base.html" %}
 
 {% block content %}
-    <h2>Comparativa</h2>
+<h2>Comparativa</h2>
 
 <section id="one" class="wrapper style1">
     <header class="major">
-        <img src="/plot_coseno.png" alt="my plot">
-        <img src="/plot_jaccard.png" alt="my plot">
-        <img src="/plot_textblood.png" alt="my plot">
+        <div style="display: flex; justify-content: flex-end">
+            <div><img src="/plot_coseno.png" alt="my plot" width="450px"></div>
+            <div><img src="/plot_jaccard.png" alt="my plot" width="450px"></div>
+            <div><img src="/plot_textblood.png" alt="my plot" width="450px"></div>
+        </div>
+
+
     </header>
 </section>
 {% endblock%}
