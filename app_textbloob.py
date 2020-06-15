@@ -37,7 +37,7 @@ def run_textbloob():
 
 
 def run_textbloob2():
-    # EXTRACCIÓN DE TWEETS
+    # EXTRACCIÓN DE TWEETS - BAYES
     data = pd.read_csv("model/tweets.csv", error_bad_lines=False)
     tweets = data[data.columns[1]]
     clf = SentimentClassifier()
