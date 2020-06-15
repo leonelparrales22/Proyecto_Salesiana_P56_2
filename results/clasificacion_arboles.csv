@@ -1,89 +1,89 @@
 ItemID,Sentiment,Acertividad,SentimentText
-1,NEUTRO,INCORRECTO,RT @wilfridolaz: ¿En serio? Lo pide el que ha co-gobernado con Lenín Moreno y que con CREO votaron juntitos de la mano a favor de esa nefas…
-2,POSITIVO,INCORRECTO,#URGENTE   ¡PRESIDENTE DE UN CLUB ECUATORIANO SE ENCUENTRA INTERNADO DEBIDO AL COVID-19!  (AQUÍ LOS DETALLES) https://t.co/VDA5Iyy6tA https://t.co/VM3U3mMUtT
-3,NEUTRO,CORRECTO,"RT @aerogalapagos: Los aeropuertos de #Guayaquil y #Galápagos están listos para reiniciar sus operaciones, así lo explica el Presidente de…"
-4,NEUTRO,CORRECTO,"RT @eluniversocom: Pacientes con coronavirus dejan de ser infecciosos después de 11 días, incluso si aún dan positivo en pruebas, sugiere e…"
-5,NEUTRO,CORRECTO,"RT @PichinchaGob: INFORME | A través del #COEPichincha, presentamos los datos actualizados sobre la situación del coronavirus (#COVID19) po…"
-6,NEUTRO,CORRECTO,Una sola persona habría contagiado el #coronavirus a otras 203 en #Guatemala https://t.co/BivcZs3Ecy
-7,NEUTRO,INCORRECTO,RT @NathalieCely: Por favor que alguien le pase al Presidente @Lenin la tasa de mortalidad por #coronavirus en #Ecuador.   Aquí están las c…
-8,NEUTRO,INCORRECTO,"RT @el_telegrafo: Suecia supera los 39 fallecidos por 100 mil habitantes debido al #coronavirus, causante de la enfermedad #covid_19, lo qu…"
-9,NEUTRO,INCORRECTO,"RT @Martinminguchi: Las cifras de Medellín asombran. En todo el departamento de Antioquia, que tiene 6,4 millones de habitantes hay, hasta…"
-10,NEUTRO,CORRECTO,"@LaPosta_Ecu este alcohólico esta enfermo, ve a Correa hasta en el coronavirus, borracho despreciable ya estas con delirium tremens"
-11,NEUTRO,INCORRECTO,"RT @angelrd: El PP y Cs entregan la presidencia de la Comisión para la Reconstrucción de Andalucía a VOX, el único grupo que votó en contra…"
-12,NEUTRO,INCORRECTO,RT @CarlosVerareal: Alarmante aumento de casos de coronavirus en Quito | Ecuavisa // Qué falló allá? https://t.co/AFV332OShM
-13,NEUTRO,INCORRECTO,"RT @Expresoec: La letalidad del coronavirus en #Quito se ha incrementado en un 226 %, desde el pasado 14 de mayo. Los detalles. ⬇️"
-14,POSITIVO,INCORRECTO,"RT @Martinminguchi: Las cifras de Medellín asombran. En todo el departamento de Antioquia, que tiene 6,4 millones de habitantes hay, hasta…"
-15,POSITIVO,CORRECTO,"RT @Primicias: La directora de Salud Pública de la OMS, María Neira, dijo que los modelos con los que trabajan van descartando “cada vez má…"
-16,NEUTRO,CORRECTO,"RT @Expresoec: La letalidad del coronavirus en #Quito se ha incrementado en un 226 %, desde el pasado 14 de mayo. Los detalles. ⬇️"
-17,NEUTRO,CORRECTO,"RT @eluniversocom: Pacientes con coronavirus dejan de ser infecciosos después de 11 días, incluso si aún dan positivo en pruebas, sugiere e…"
-18,NEGATIVO,INCORRECTO,"RT @el_telegrafo: Suecia supera los 39 fallecidos por 100 mil habitantes debido al #coronavirus, causante de la enfermedad #covid_19, lo qu…"
-19,POSITIVO,INCORRECTO,"RT @Expresoec: #COVID19 | Entre los días 14 y 23 de mayo se llevaron a cabo más de 6,57 millones de test como parte de una campaña de detec…"
-20,NEUTRO,CORRECTO,RT @DiarioExtraEc: ¡Michela Pincay tuvo que cerrar su local de Guayarte! https://t.co/x2GUhRwGBl https://t.co/LAMFnuPKxu
-21,POSITIVO,INCORRECTO,"RT @el_telegrafo: Estos son los casos globales de contagiados, muertos y recuperados por #Covid_19 hasta el lunes 25 de mayo de 2020.   Fue…"
-22,NEUTRO,INCORRECTO,RT @Expresoec: La  Espol se suma a la búsqueda mundial de la vacuna contra el coronavirus: https://t.co/DCT8PXtixq
-23,POSITIVO,CORRECTO,"RT @Expresoec: #COVID19 | Entre los días 14 y 23 de mayo se llevaron a cabo más de 6,57 millones de test como parte de una campaña de detec…"
-24,NEUTRO,INCORRECTO,RT @splendid1040: Trump prohíbe los vuelos desde Brasil por el coronavirus | AFP https://t.co/xdjqkMx1l2 https://t.co/Bo6kfF9X4B
-25,NEUTRO,CORRECTO,RT @DetectiveDiario: Inició el paro en Ecuador en medio de la pandemia   Cientos de ecuatorianos vencieron el miedo al coronavirus y salier…
-26,NEUTRO,INCORRECTO,"RT @jorgeharbviteri: Coronavirus y tu Pu... madre, no vas a poder con Guayaquil... muy buen trabajo médicos y enfermeros del @OMNIHospital…"
-27,NEUTRO,CORRECTO,"El inicio del próximo ciclo olímpico previsto para el 2021 quedó aplazado para el 2022, así como el mismo torneo, pero de Juventudes de 2020 a 2021. https://t.co/uMRRRjqucj"
-28,NEUTRO,INCORRECTO,"RT @Expresoec: La letalidad del coronavirus en #Quito se ha incrementado en un 226 %, desde el pasado 14 de mayo. Los detalles. ⬇️"
-29,NEUTRO,CORRECTO,"RT @angelrd: El PP y Cs entregan la presidencia de la Comisión para la Reconstrucción de Andalucía a VOX, el único grupo que votó en contra…"
-30,NEUTRO,INCORRECTO,"RT @Expresoec: Ecuador sigue luchando no solo contra el #coronavirus, sino  contra una pandemia paralela, la presunta corrupción: https://t…"
-31,NEUTRO,INCORRECTO,"RT @angelrd: El PP y Cs entregan la presidencia de la Comisión para la Reconstrucción de Andalucía a VOX, el único grupo que votó en contra…"
-32,NEUTRO,CORRECTO,"RT @Martinminguchi: Las cifras de Medellín asombran. En todo el departamento de Antioquia, que tiene 6,4 millones de habitantes hay, hasta…"
-33,NEUTRO,INCORRECTO,"RT @Expresoec: La letalidad del coronavirus en #Quito se ha incrementado en un 226 %, desde el pasado 14 de mayo. Los detalles. ⬇️"
-34,POSITIVO,CORRECTO,"Comercio y turismo pierden más de 500,000 mdp en mayo por coronavirus: Concanaco https://t.co/1OVlTsqj00 https://t.co/K1vZv3lTKL"
-35,NEUTRO,INCORRECTO,"RT @Martinminguchi: Las cifras de Medellín asombran. En todo el departamento de Antioquia, que tiene 6,4 millones de habitantes hay, hasta…"
-36,NEUTRO,INCORRECTO,"RT @espol: Diario @Expresoec destaca la labor del Laboratorio para Investigaciones Biomédicas de #ESPOL, en el cual se desarrolla un protot…"
-37,NEUTRO,INCORRECTO,"BBC News Mundo - Coronavirus | Elif Shafak: ""¿Era realmente normal el mundo antes de la covid-19?"". La escritora turco-británica te invita a intercambiar ideas https://t.co/8Wsyrf4brU"
-38,NEUTRO,INCORRECTO,RT @CarlosVerareal: Alarmante aumento de casos de coronavirus en Quito | Ecuavisa // Qué falló allá? https://t.co/AFV332OShM
-39,NEUTRO,INCORRECTO,"El #coronavirus mantiene un nivel de #contagio creciente, llegando a enfermar a 5,4 millones de personas. Frente a esto, @CapitalPraxis recomienda a sus seguidores revisar el mapa #mundial de expansión: https://t.co/hrYFYuEvsd https://t.co/xTeMrzi3Xe"
-40,NEUTRO,INCORRECTO,"RT @Expresoec: #COVID19 | Entre los días 14 y 23 de mayo se llevaron a cabo más de 6,57 millones de test como parte de una campaña de detec…"
-41,NEUTRO,CORRECTO,"RT @Expresoec: La letalidad del coronavirus en #Quito se ha incrementado en un 226 %, desde el pasado 14 de mayo. Los detalles. ⬇️"
-42,NEUTRO,CORRECTO,#ALARMANTE | #ECUADOR #Quito pasa a #Guayaquil en cifra de contagios de #coronavirus diarios.  https://t.co/jL6btkci78
-43,NEUTRO,INCORRECTO,RT @CarlosVerareal: Alarmante aumento de casos de coronavirus en Quito | Ecuavisa // Qué falló allá? https://t.co/AFV332OShM
-44,NEUTRO,INCORRECTO,RT @CarlosVerareal: Alarmante aumento de casos de coronavirus en Quito | Ecuavisa // Qué falló allá? https://t.co/AFV332OShM
-45,NEUTRO,INCORRECTO,"RT @Martinminguchi: Las cifras de Medellín asombran. En todo el departamento de Antioquia, que tiene 6,4 millones de habitantes hay, hasta…"
-46,NEUTRO,INCORRECTO,"RT @Expresoec: Ecuador sigue luchando no solo contra el #coronavirus, sino  contra una pandemia paralela, la presunta corrupción: https://t…"
-47,POSITIVO,INCORRECTO,"RT @Expresoec: La letalidad del coronavirus en #Quito se ha incrementado en un 226 %, desde el pasado 14 de mayo. Los detalles. ⬇️"
-48,NEUTRO,INCORRECTO,"RT @artumoscoso: ¿Se mueren de ganas de pasar a ""semáforo amarillo""? Lean esto primero.   #coronavirus #coronavirusecuador     https://t.co…"
-49,POSITIVO,INCORRECTO,"RT @Expresoec: #COVID19 | Entre los días 14 y 23 de mayo se llevaron a cabo más de 6,57 millones de test como parte de una campaña de detec…"
-50,NEUTRO,INCORRECTO,RT @Expresoec: La  Espol se suma a la búsqueda mundial de la vacuna contra el coronavirus: https://t.co/DCT8PXtixq
-51,NEUTRO,INCORRECTO,RT @Expresoec: La  Espol se suma a la búsqueda mundial de la vacuna contra el coronavirus: https://t.co/DCT8PXtixq
-52,NEUTRO,INCORRECTO,"RT @GobiernoGuayas: @teleamazonasec @CLMoralesB En el desarrollo de la entrevista, el prefecto @CLMoralesB evaluó la situación de la provin…"
-53,POSITIVO,CORRECTO,"RT @Pablofame: Esto es una catástrofe. Hace rato se exhortó a liberar a PPLs, cuyas penas son leves. 400 PPLs de carcel de ambato dan posit…"
-54,NEUTRO,CORRECTO,"RT @Expresoec: La Organización Mundial de la Salud suspendió los ensayos con la hidroxicloroquina pero, ¿qué se conoce sobre este medicamen…"
-55,NEUTRO,INCORRECTO,"RT @eluniversocom: Distribución de los casos de #coronavirusenEcuador, según información oficial difundida este lunes 25 de mayo de 2020. ►…"
-56,NEUTRO,CORRECTO,"RT @Expresoec: El inicio del próximo ciclo olímpico previsto para el 2021 quedó aplazado para el 2022, así como el mismo torneo, pero de Ju…"
-57,NEUTRO,INCORRECTO,PROHIBICION(AgenciAne)  E.U . .   suspende   entrada a su país de cualquier persona que haya estado en Brasil dentro de los 14 días inmediatamente anteriores al intento de ingreso a Estados Unidos. Brasil es 2°  en todo el mundo con casos de coronavirus.
-58,NEUTRO,CORRECTO,RT @afpquito: 🇪🇨 Sindicatos y otros grupos sociales desafiaron las restricciones por el #coronavirus y organizaron marchas este lunes en va…
-59,POSITIVO,CORRECTO,"RT @Martinminguchi: Las cifras de Medellín asombran. En todo el departamento de Antioquia, que tiene 6,4 millones de habitantes hay, hasta…"
-60,NEUTRO,INCORRECTO,"RT @eluniversocom: Pacientes con coronavirus dejan de ser infecciosos después de 11 días, incluso si aún dan positivo en pruebas, sugiere e…"
-61,POSITIVO,CORRECTO,"RT @Expresoec: La letalidad del coronavirus en #Quito se ha incrementado en un 226 %, desde el pasado 14 de mayo. Los detalles. ⬇️"
-62,NEUTRO,INCORRECTO,RT @ChristianSuzuki: 71 días de emergencia y solo una política fallecida en Ecuador... que ineficiencia la del coronavirus para llevarse a…
-63,POSITIVO,CORRECTO,"RT @Expresoec: #COVID2019ec: En marzo se contagiaron 51 menores. La cifra crece en mayo, pero en relación con el universo de los enfermos,…"
-64,NEUTRO,INCORRECTO,"RT @Expresoec: La letalidad del coronavirus en #Quito se ha incrementado en un 226 %, desde el pasado 14 de mayo. Los detalles. ⬇️"
-65,POSITIVO,INCORRECTO,"¿Será que viendo esto les queda claro que la crisis económica no es sólo en Ecuador?   Aerolínea Latam anunció nuevos despidos debido al coronavirus en Ecuador, Chile, Perú y Colombia | Economía | Noticias | El Universo https://t.co/P3au3S2h71"
-66,NEUTRO,CORRECTO,"RT @Martinminguchi: Las cifras de Medellín asombran. En todo el departamento de Antioquia, que tiene 6,4 millones de habitantes hay, hasta…"
-67,POSITIVO,INCORRECTO,"RT @Expresoec: La letalidad del coronavirus en #Quito se ha incrementado en un 226 %, desde el pasado 14 de mayo. Los detalles. ⬇️"
-68,NEUTRO,CORRECTO,"RT @eluniversocom: Aerolínea Latam anunció nuevos despidos debido al coronavirus en Ecuador, Chile, Perú y Colombia. ► https://t.co/FW80hO2…"
-69,NEUTRO,CORRECTO,"RT @Martinminguchi: Las cifras de Medellín asombran. En todo el departamento de Antioquia, que tiene 6,4 millones de habitantes hay, hasta…"
-70,POSITIVO,CORRECTO,RT @CarlosVerareal: Alarmante aumento de casos de coronavirus en Quito | Ecuavisa // Qué falló allá? https://t.co/AFV332OShM
-71,NEUTRO,INCORRECTO,"Desde mediados de abril hasta el 23 de mayo, Guayaquil ha aumentado de 15,5 a 35 casos por cada diez mil personas. Quito ha ido de 2,3 a 11,5 en el mismo período. Lee el análisis completo de @mjavierrod e @ivanduespin https://t.co/M9zcbpYFpB"
-72,NEUTRO,INCORRECTO,RT @Expresoec: La  Espol se suma a la búsqueda mundial de la vacuna contra el coronavirus: https://t.co/DCT8PXtixq
-73,NEGATIVO,INCORRECTO,"RT @Martinminguchi: Las cifras de Medellín asombran. En todo el departamento de Antioquia, que tiene 6,4 millones de habitantes hay, hasta…"
-74,NEUTRO,INCORRECTO,"RT @eluniversocom: Aerolínea Latam anunció nuevos despidos debido al coronavirus en Ecuador, Chile, Perú y Colombia. ► https://t.co/FW80hO2…"
-75,NEUTRO,CORRECTO,"RT @ASotomayorEcu: Hemos avanzado mucho. Hemos alcanzado un sinnúmero de objetivos. Sabemos que queda mucho por hacer, pero ahora es tiempo…"
-76,NEGATIVO,INCORRECTO,"RT @CLMoralesB: Entrevista en La Voz de Milagro: a pesar del accionar desplegado para hacer frente a la #pandemia de #coronavirus, no se ha…"
-77,NEUTRO,CORRECTO,"@LoroHomero Con esas placas en dos patadas se puede averiguar TODO. Hay que escupirles y toserles a estos hptas, que el coronavirus haga lo suyo..   Ejemplo de lo peor que tenemos como especie.."
-78,POSITIVO,INCORRECTO,"RT @revistavistazo: #MUNDO | Personas que habían tenido resultados positivos en pruebas de Coronavirus, dejaron de ser agentes infecciosos…"
-79,POSITIVO,CORRECTO,"RT @ntubay: La @espol también va tras una vacuna contra el Covid-19.  Más que a la competencia global, apunta a crear una plataforma para p…"
-80,NEUTRO,INCORRECTO,"RT @espol: Diario @Expresoec destaca la labor del Laboratorio para Investigaciones Biomédicas de #ESPOL, en el cual se desarrolla un protot…"
-81,POSITIVO,INCORRECTO,"RT @Expresoec: #COVID19Ec | El equipo eléctrico comenzó hoy los exámenes médicos a toda su plantilla. Esperan el miércoles, con resultados…"
-82,NEUTRO,INCORRECTO,RT @Expresoec: Sigue el avance de las noticias más destacas sobre el #coronavirus en Ecuador y el mundo con el minuto a minuto de EXPRESO. 🔽
-83,NEUTRO,INCORRECTO,"RT @revistavistazo: #MUNDO | Personas que habían tenido resultados positivos en pruebas de Coronavirus, dejaron de ser agentes infecciosos…"
-84,NEUTRO,CORRECTO,"#COVID19 | Entre los días 14 y 23 de mayo se llevaron a cabo más de 6,57 millones de test como parte de una campaña de detección iniciada después de que un pequeño rebrote pusiera en alerta a las autoridades tras varias semanas sin registrar contagios.  https://t.co/HN0dVPqXo8"
-85,NEUTRO,INCORRECTO,"RT @Manuel_EGP: @EcuavisaInforma Que la Rosa de Guadalupe meta otra vez los carros a la pista del aeropuerto José Joaquín de Olmedo, lo mal…"
-86,POSITIVO,INCORRECTO,"RT @Expresoec: #Coronavirus: Decenas de personas aprovecharon la reapertura de algunas iglesias, este 25 de mayo, para visitarlas tras casi…"
-87,NEUTRO,CORRECTO,Cómo mutan los virus y cómo podría evolucionar el coronavirus | BBC Mundo https://t.co/IE4qKSQibS
-0.6206896551724138,0.22988505747126436,0.034482758620689655,0.735632183908046
+1,POSITIVO,INCORRECTO,"RT @revistavistazo: #MUNDO | Personas que habían tenido resultados positivos en pruebas de Coronavirus, dejaron de ser agentes infecciosos…"
+2,POSITIVO,INCORRECTO,"No sé ustedes pero yo ya estoy harta de leer “un nuevo estudio sugiere que el coronavirus...” todos los días se contradicen, ya no se sabe qué creer 😫. Yo solo sé que la vida ya no volvió  ni volverá a ser igual."
+3,NEUTRO,INCORRECTO,RT @Expresoec: Sigue el avance de las noticias más destacas sobre el #coronavirus en Ecuador y el mundo con el minuto a minuto de EXPRESO. 🔽
+4,NEUTRO,CORRECTO,Una sola persona habría contagiado el #coronavirus a otras 203 en #Guatemala https://t.co/BivcZs3Ecy
+5,NEUTRO,CORRECTO,"RT @eluniversocom: Pacientes con coronavirus dejan de ser infecciosos después de 11 días, incluso si aún dan positivo en pruebas, sugiere e…"
+6,POSITIVO,INCORRECTO,"RT @eluniversocom: Pacientes con coronavirus dejan de ser infecciosos después de 11 días, incluso si aún dan positivo en pruebas, sugiere e…"
+7,NEUTRO,INCORRECTO,"@DavilaAurelio Ahí está el vídeo completo donde Vargas le echa la culpa a la educación virtual del contagio del Coronavirus, veanlo y escuchen completa la información y verán que tiene lógica lo que dice. https://t.co/msy0EOkLUk"
+8,NEUTRO,INCORRECTO,"RT @Expresoec: Los niños representan el 1,6 % del total de casos. En las calles de Guayaquil se ven a familias en los semáforos. https://t.…"
+9,NEUTRO,CORRECTO,RT @NathalieCely: Por favor que alguien le pase al Presidente @Lenin la tasa de mortalidad por #coronavirus en #Ecuador.   Aquí están las c…
+10,NEUTRO,INCORRECTO,RT @carolgrillito: ¡ATENTI!  Aquí parte de la desgraciada historia del morenato.   @Lenin en cambio mintiendo en la @AsambleaEcuador   http…
+11,NEUTRO,INCORRECTO,"RT @alfaT801: No permiten reunirse, no permiten despedirnos de nuestros muertos por el coronavirus, no permiten abrir parques, no permiten…"
+12,NEUTRO,INCORRECTO,RT @carolgrillito: ¡ATENTI!  Aquí parte de la desgraciada historia del morenato.   @Lenin en cambio mintiendo en la @AsambleaEcuador   http…
+13,NEUTRO,INCORRECTO,URGENTE 😱 Más de 100 mil muertos por #Covid19usa  en USA. Defiéndete del #Coronavirus con DEFEND y MIND https://t.co/7p1KFAvqIv
+14,POSITIVO,INCORRECTO,"RT @el_telegrafo: Estos son los casos globales de contagiados, muertos y recuperados por #Covid_19 hasta el lunes 25 de mayo de 2020.   Fue…"
+15,POSITIVO,CORRECTO,"RT @revistavistazo: #ATENCIÓN Un grupo de investigadores de Reino Unido, Suecia y Dinamarca hallaron el 'Talón de Aquiles' del #coronavirus…"
+16,POSITIVO,INCORRECTO,"RT @Martinminguchi: Las cifras de Medellín asombran. En todo el departamento de Antioquia, que tiene 6,4 millones de habitantes hay, hasta…"
+17,NEUTRO,CORRECTO,RT @el_telegrafo: Varios países del mundo han iniciado el lunes un lento proceso de reapertura de comercios y otras actividades públicas a…
+18,POSITIVO,INCORRECTO,"RT @Martinminguchi: Las cifras de Medellín asombran. En todo el departamento de Antioquia, que tiene 6,4 millones de habitantes hay, hasta…"
+19,POSITIVO,CORRECTO,"RT @Expresoec: #COVID19 | Entre los días 14 y 23 de mayo se llevaron a cabo más de 6,57 millones de test como parte de una campaña de detec…"
+20,NEGATIVO,INCORRECTO,RT @carolgrillito: ¡ATENTI!  Aquí parte de la desgraciada historia del morenato.   @Lenin en cambio mintiendo en la @AsambleaEcuador   http…
+21,POSITIVO,INCORRECTO,"RT @Martinminguchi: Las cifras de Medellín asombran. En todo el departamento de Antioquia, que tiene 6,4 millones de habitantes hay, hasta…"
+22,NEUTRO,CORRECTO,RT @JuanPablo_Alban: Coronavirus | De enfermedad respiratoria a multisistémica: cómo en pocas semanas cambió radicalmente lo que sabemos so…
+23,POSITIVO,INCORRECTO,"RT @revistavistazo: #MUNDO | Personas que habían tenido resultados positivos en pruebas de Coronavirus, dejaron de ser agentes infecciosos…"
+24,POSITIVO,CORRECTO,"¿Buscas posicionarte en el mundo digital? Somos expertos en marketing digital, tiendas online, fotografía y diseño gráfico. Escríbenos @socialitagencia #CreandoParaTi #25Mayo #QuedateEnCasa #coronavirus https://t.co/vtBIqMbXWH"
+25,POSITIVO,INCORRECTO,"RT @eluniversocom: Aerolínea Latam anunció nuevos despidos debido al coronavirus en Ecuador, Chile, Perú y Colombia. ► https://t.co/FW80hO2…"
+26,POSITIVO,CORRECTO,"RT @Expresoec: Debido a la emergencia del #coronavirus, Michela Pincay cerrará su local de Guayarte. Los detalles. 👇 https://t.co/28SuFqDy9m"
+27,NEUTRO,CORRECTO,"RT @Martinminguchi: Las cifras de Medellín asombran. En todo el departamento de Antioquia, que tiene 6,4 millones de habitantes hay, hasta…"
+28,NEUTRO,INCORRECTO,Cómo mutan los virus y cómo podría evolucionar el coronavirus | BBC Mundo https://t.co/IE4qKSQibS
+29,NEUTRO,INCORRECTO,RT @DiarioExtraEc: ¡Michela Pincay tuvo que cerrar su local de Guayarte! https://t.co/x2GUhRwGBl https://t.co/LAMFnuPKxu
+30,NEUTRO,INCORRECTO,RT @splendid1040: Trump prohíbe los vuelos desde Brasil por el coronavirus | AFP https://t.co/xdjqkMx1l2 https://t.co/Bo6kfF9X4B
+31,NEUTRO,INCORRECTO,"El inicio del próximo ciclo olímpico previsto para el 2021 quedó aplazado para el 2022, así como el mismo torneo, pero de Juventudes de 2020 a 2021. https://t.co/uMRRRjqucj"
+32,POSITIVO,INCORRECTO,"RT @angelrd: El PP y Cs entregan la presidencia de la Comisión para la Reconstrucción de Andalucía a VOX, el único grupo que votó en contra…"
+33,NEUTRO,INCORRECTO,"RT @Martinminguchi: Las cifras de Medellín asombran. En todo el departamento de Antioquia, que tiene 6,4 millones de habitantes hay, hasta…"
+34,POSITIVO,CORRECTO,"RT @Martinminguchi: Las cifras de Medellín asombran. En todo el departamento de Antioquia, que tiene 6,4 millones de habitantes hay, hasta…"
+35,POSITIVO,INCORRECTO,"En estos tiempos el peligro no es tener coronavirus, es infectarse del odio, del insulto, del chisme, de la acusación sin sustento, de la calumnia soterrada,  del me han dicho, que pulula asqueroso y artero por todas partes. Tapémonos los oídos a todo eso."
+36,NEUTRO,INCORRECTO,RT @CarlosVerareal: Alarmante aumento de casos de coronavirus en Quito | Ecuavisa // Qué falló allá? https://t.co/AFV332OShM
+37,POSITIVO,CORRECTO,"RT @Expresoec: La Organización Mundial de la Salud suspendió los ensayos con la hidroxicloroquina pero, ¿qué se conoce sobre este medicamen…"
+38,POSITIVO,CORRECTO,#URGENTE   ¡DOS NUEVOS CASOS DE CORONAVIRUS EN LA PREMIER LEAGUE TRAS UN COMUNICADO OFICIAL!   (AQUÍ LOS DETALLES) https://t.co/WviWqxZ3os https://t.co/A0c3K6DuMt
+39,NEUTRO,INCORRECTO,RT @Expresoec: La  Espol se suma a la búsqueda mundial de la vacuna contra el coronavirus: https://t.co/DCT8PXtixq
+40,POSITIVO,INCORRECTO,"@LoroHomero Con esas placas en dos patadas se puede averiguar TODO. Hay que escupirles y toserles a estos hptas, que el coronavirus haga lo suyo..   Ejemplo de lo peor que tenemos como especie.."
+41,NEUTRO,INCORRECTO,"RT @eluniversocom: Aerolínea Latam anunció nuevos despidos debido al coronavirus en Ecuador, Chile, Perú y Colombia. ► https://t.co/FW80hO2…"
+42,NEUTRO,CORRECTO,"RT @Primicias: Alfredo Palacio, expresidente de la República, acusa al Gobierno de Rafael Correa de haber destrozado el sistema de salud pú…"
+43,NEGATIVO,INCORRECTO,RT @CarlosVerareal: Alarmante aumento de casos de coronavirus en Quito | Ecuavisa // Qué falló allá? https://t.co/AFV332OShM
+44,NEUTRO,INCORRECTO,RT @eluniversocom: (Ampliación)  Casos de #coronavirusenEcuador según datos difundidos este lunes 25 de mayo de 2020 por las autoridades de…
+45,POSITIVO,CORRECTO,"#Atención #Entrevistaenvivo con Ing. Cecilia Andrade, Directora Regional Centro Sur y Mgs. Sebastián Verdugo, Coordinador Zonal Centro Sur. Tema: Retos de la educación superior no presencial en tiempos de coronavirus Este Martes 26 de Mayo a las 12:00 https://t.co/4U6Ub8afHy"
+46,NEUTRO,INCORRECTO,"RT @alfaT801: No permiten reunirse, no permiten despedirnos de nuestros muertos por el coronavirus, no permiten abrir parques, no permiten…"
+47,POSITIVO,INCORRECTO,"RT @aerogalapagos: Los aeropuertos de #Guayaquil y #Galápagos están listos para reiniciar sus operaciones, así lo explica el Presidente de…"
+48,POSITIVO,CORRECTO,"RT @Expresoec: La letalidad del coronavirus en #Quito se ha incrementado en un 226 %, desde el pasado 14 de mayo. Los detalles. ⬇️"
+49,POSITIVO,INCORRECTO,"RT @Expresoec: #Coronavirus: Decenas de personas aprovecharon la reapertura de algunas iglesias, este 25 de mayo, para visitarlas tras casi…"
+50,NEUTRO,INCORRECTO,RT @afpquito: 🇪🇨 Sindicatos y otros grupos sociales desafiaron las restricciones por el #coronavirus y organizaron marchas este lunes en va…
+51,NEUTRO,INCORRECTO,"RT @TelediarioEC: Estos son los casos globales de contagiados, muertos y recuperados por #Covid_19 hasta el lunes 25 de mayo de 2020.   Fue…"
+52,NEUTRO,CORRECTO,"RT @Expresoec: La letalidad del coronavirus en #Quito se ha incrementado en un 226 %, desde el pasado 14 de mayo. Los detalles. ⬇️"
+53,POSITIVO,CORRECTO,"RT @eluniversocom: Pacientes con coronavirus dejan de ser infecciosos después de 11 días, incluso si aún dan positivo en pruebas, sugiere e…"
+54,NEUTRO,INCORRECTO,"RT @Expresoec: La letalidad del coronavirus en #Quito se ha incrementado en un 226 %, desde el pasado 14 de mayo. Los detalles. ⬇️"
+55,POSITIVO,CORRECTO,RT @JuanPablo_Alban: Coronavirus | De enfermedad respiratoria a multisistémica: cómo en pocas semanas cambió radicalmente lo que sabemos so…
+56,NEUTRO,INCORRECTO,"RT @eluniversocom: Aerolínea Latam anunció nuevos despidos debido al coronavirus en Ecuador, Chile, Perú y Colombia. ► https://t.co/FW80hO2…"
+57,NEGATIVO,INCORRECTO,"@LaPosta_Ecu este alcohólico esta enfermo, ve a Correa hasta en el coronavirus, borracho despreciable ya estas con delirium tremens"
+58,NEUTRO,INCORRECTO,#URGENTE   ¡PRESIDENTE DE UN CLUB ECUATORIANO SE ENCUENTRA INTERNADO DEBIDO AL COVID-19!  (AQUÍ LOS DETALLES) https://t.co/VDA5Iyy6tA https://t.co/VM3U3mMUtT
+59,NEGATIVO,INCORRECTO,"RT @Martinminguchi: Aquí el video completo, no la versión cortada y humorística, donde Jaime Vargas habla de la conexión entre la educación…"
+60,NEUTRO,INCORRECTO,"RT @eluniversocom: Distribución de los casos de #coronavirusenEcuador, según información oficial difundida este lunes 25 de mayo de 2020. ►…"
+61,NEUTRO,INCORRECTO,"RT @Expresoec: La Organización Mundial de la Salud suspendió los ensayos con la hidroxicloroquina pero, ¿qué se conoce sobre este medicamen…"
+62,NEUTRO,CORRECTO,"RT @Martinminguchi: Aquí el video completo, no la versión cortada y humorística, donde Jaime Vargas habla de la conexión entre la educación…"
+63,NEUTRO,CORRECTO,"RT @Expresoec: #COVID19Ec | El equipo eléctrico comenzó hoy los exámenes médicos a toda su plantilla. Esperan el miércoles, con resultados…"
+64,POSITIVO,CORRECTO,"RT @eluniversocom: Pacientes con coronavirus dejan de ser infecciosos después de 11 días, incluso si aún dan positivo en pruebas, sugiere e…"
+65,NEUTRO,INCORRECTO,RT @CTwitteado: Ojo con el #coronavirus .
+66,POSITIVO,INCORRECTO,"RT @Expresoec: La letalidad del coronavirus en #Quito se ha incrementado en un 226 %, desde el pasado 14 de mayo. Los detalles. ⬇️"
+67,NEUTRO,CORRECTO,"RT @Martinminguchi: Las cifras de Medellín asombran. En todo el departamento de Antioquia, que tiene 6,4 millones de habitantes hay, hasta…"
+68,POSITIVO,INCORRECTO,"RT @alfaT801: No permiten reunirse, no permiten despedirnos de nuestros muertos por el coronavirus, no permiten abrir parques, no permiten…"
+69,NEUTRO,CORRECTO,"RT @eluniversocom: Con semáforo amarillo, el transporte urbano e interparroquial en Ambato retomó sus recorridos habituales. ► https://t.co…"
+70,POSITIVO,INCORRECTO,"RT @eluniversocom: Aerolínea Latam anunció nuevos despidos debido al coronavirus en Ecuador, Chile, Perú y Colombia. ► https://t.co/FW80hO2…"
+71,NEUTRO,CORRECTO,"RT @el_telegrafo: Suecia supera los 39 fallecidos por 100 mil habitantes debido al #coronavirus, causante de la enfermedad #covid_19, lo qu…"
+72,NEUTRO,INCORRECTO,"RT @Expresoec: La letalidad del coronavirus en #Quito se ha incrementado en un 226 %, desde el pasado 14 de mayo. Los detalles. ⬇️"
+73,NEUTRO,INCORRECTO,RT @CarlosVerareal: Alarmante aumento de casos de coronavirus en Quito | Ecuavisa // Qué falló allá? https://t.co/AFV332OShM
+74,NEUTRO,CORRECTO,RT @CarlosVerareal: Alarmante aumento de casos de coronavirus en Quito | Ecuavisa // Qué falló allá? https://t.co/AFV332OShM
+75,NEUTRO,CORRECTO,"RT @elnorteadiario: #Coronavirus A sus 39 años, los mismos con los que falleció su marido, Carvajal es quizás el caso más dramático de la c…"
+76,POSITIVO,INCORRECTO,"RT @GobiernoGuayas: @CLMoralesB Morales aseguró que pese al cambio de semáforo en algunos cantones, mantendrá acciones como entrega de alim…"
+77,POSITIVO,CORRECTO,RT @DetectiveDiario: Inició el paro en Ecuador en medio de la pandemia   Cientos de ecuatorianos vencieron el miedo al coronavirus y salier…
+78,POSITIVO,INCORRECTO,"RT @Martinminguchi: Las cifras de Medellín asombran. En todo el departamento de Antioquia, que tiene 6,4 millones de habitantes hay, hasta…"
+79,NEUTRO,INCORRECTO,"RT @ntubay: La @espol también va tras una vacuna contra el Covid-19.  Más que a la competencia global, apunta a crear una plataforma para p…"
+80,NEUTRO,INCORRECTO,"RT @Martinminguchi: Las cifras de Medellín asombran. En todo el departamento de Antioquia, que tiene 6,4 millones de habitantes hay, hasta…"
+81,NEUTRO,INCORRECTO,RT @Expresoec: La  Espol se suma a la búsqueda mundial de la vacuna contra el coronavirus: https://t.co/DCT8PXtixq
+82,POSITIVO,INCORRECTO,"Desde mediados de abril hasta el 23 de mayo, Guayaquil ha aumentado de 15,5 a 35 casos por cada diez mil personas. Quito ha ido de 2,3 a 11,5 en el mismo período. Lee el análisis completo de @mjavierrod e @ivanduespin https://t.co/M9zcbpYFpB"
+83,POSITIVO,INCORRECTO,"RT @Expresoec: La letalidad del coronavirus en #Quito se ha incrementado en un 226 %, desde el pasado 14 de mayo. Los detalles. ⬇️"
+84,POSITIVO,CORRECTO,RT @ChristianSuzuki: 71 días de emergencia y solo una política fallecida en Ecuador... que ineficiencia la del coronavirus para llevarse a…
+85,NEUTRO,CORRECTO,RT @CarlosVerareal: Alarmante aumento de casos de coronavirus en Quito | Ecuavisa // Qué falló allá? https://t.co/AFV332OShM
+86,POSITIVO,INCORRECTO,"RT @jorgeharbviteri: Coronavirus y tu Pu... madre, no vas a poder con Guayaquil... muy buen trabajo médicos y enfermeros del @OMNIHospital…"
+87,NEUTRO,CORRECTO,El arroz levanta un récord de consumo https://t.co/Ge1bdbPdeg
+0.6436781609195402,0.41379310344827586,0.04597701149425287,0.5402298850574713
