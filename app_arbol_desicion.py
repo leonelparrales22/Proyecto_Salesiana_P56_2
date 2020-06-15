@@ -4,7 +4,7 @@ from controller.nlp import *
 import pandas as pd
 
 # EXTRACCIÓN DE TWEETS
-data = pd.read_csv("results/final.csv.csv", error_bad_lines=False)
+data = pd.read_csv("results/final.csv", error_bad_lines=False)
 tweets = data[data.columns[2]]
 sentimiento = data[data.columns[1]]
 sentimiento = sentimiento.values.tolist()
