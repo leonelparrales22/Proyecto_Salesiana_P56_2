@@ -6,8 +6,8 @@ import pandas as pd
 
 def run_textbloob():
     # EXTRACCIÓN DE TWEETS
-    data = pd.read_csv("results/clasificacion_coseno_vectorial.csv", error_bad_lines=False)
-    tweets = data[data.columns[2]]
+    data = pd.read_csv("model/tweets.csv", error_bad_lines=False)
+    tweets = data[data.columns[1]]
     contador = 1
     contador_positivos = 0
     contador_negativos = 0

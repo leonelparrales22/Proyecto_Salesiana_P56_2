@@ -8,9 +8,9 @@ import pandas as pd
 def refrescar_data(texto):
     if texto != "":
         buscar_tweets(texto)
-        run_diccionarios()
+        # run_diccionarios()
         run_textbloob2()
-        # run_textbloob()
+        run_textbloob()
 
 
 def tabla_coseno_vectorial(texto):

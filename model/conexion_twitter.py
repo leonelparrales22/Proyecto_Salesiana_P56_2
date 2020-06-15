@@ -20,7 +20,7 @@ def buscar_tweets(texto):
     cont = 0
     tweets = []
     for tweet in tweepy.Cursor(api.search, q=texto, lang="es", tweet_mode="extended",
-                               geocode=" -1.39459,-78.39924,250km").items(30):
+                               geocode=" -1.39459,-78.39924,250km").items(100):
         if (not tweet.retweeted) and ('RT @' not in tweet.full_text):
             var = tweet._json["full_text"]
             tweets.append(var)
