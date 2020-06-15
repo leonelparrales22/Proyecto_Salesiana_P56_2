@@ -1,89 +1,242 @@
 ItemID,Sentiment,Acertividad,SentimentText
-1,POSITIVO,INCORRECTO,"RT @revistavistazo: #MUNDO | Personas que habían tenido resultados positivos en pruebas de Coronavirus, dejaron de ser agentes infecciosos…"
-2,POSITIVO,INCORRECTO,"No sé ustedes pero yo ya estoy harta de leer “un nuevo estudio sugiere que el coronavirus...” todos los días se contradicen, ya no se sabe qué creer 😫. Yo solo sé que la vida ya no volvió  ni volverá a ser igual."
-3,NEUTRO,INCORRECTO,RT @Expresoec: Sigue el avance de las noticias más destacas sobre el #coronavirus en Ecuador y el mundo con el minuto a minuto de EXPRESO. 🔽
-4,NEUTRO,CORRECTO,Una sola persona habría contagiado el #coronavirus a otras 203 en #Guatemala https://t.co/BivcZs3Ecy
-5,NEUTRO,CORRECTO,"RT @eluniversocom: Pacientes con coronavirus dejan de ser infecciosos después de 11 días, incluso si aún dan positivo en pruebas, sugiere e…"
-6,POSITIVO,INCORRECTO,"RT @eluniversocom: Pacientes con coronavirus dejan de ser infecciosos después de 11 días, incluso si aún dan positivo en pruebas, sugiere e…"
-7,NEUTRO,INCORRECTO,"@DavilaAurelio Ahí está el vídeo completo donde Vargas le echa la culpa a la educación virtual del contagio del Coronavirus, veanlo y escuchen completa la información y verán que tiene lógica lo que dice. https://t.co/msy0EOkLUk"
-8,NEUTRO,INCORRECTO,"RT @Expresoec: Los niños representan el 1,6 % del total de casos. En las calles de Guayaquil se ven a familias en los semáforos. https://t.…"
-9,NEUTRO,CORRECTO,RT @NathalieCely: Por favor que alguien le pase al Presidente @Lenin la tasa de mortalidad por #coronavirus en #Ecuador.   Aquí están las c…
-10,NEUTRO,INCORRECTO,RT @carolgrillito: ¡ATENTI!  Aquí parte de la desgraciada historia del morenato.   @Lenin en cambio mintiendo en la @AsambleaEcuador   http…
-11,NEUTRO,INCORRECTO,"RT @alfaT801: No permiten reunirse, no permiten despedirnos de nuestros muertos por el coronavirus, no permiten abrir parques, no permiten…"
-12,NEUTRO,INCORRECTO,RT @carolgrillito: ¡ATENTI!  Aquí parte de la desgraciada historia del morenato.   @Lenin en cambio mintiendo en la @AsambleaEcuador   http…
-13,NEUTRO,INCORRECTO,URGENTE 😱 Más de 100 mil muertos por #Covid19usa  en USA. Defiéndete del #Coronavirus con DEFEND y MIND https://t.co/7p1KFAvqIv
-14,POSITIVO,INCORRECTO,"RT @el_telegrafo: Estos son los casos globales de contagiados, muertos y recuperados por #Covid_19 hasta el lunes 25 de mayo de 2020.   Fue…"
-15,POSITIVO,CORRECTO,"RT @revistavistazo: #ATENCIÓN Un grupo de investigadores de Reino Unido, Suecia y Dinamarca hallaron el 'Talón de Aquiles' del #coronavirus…"
-16,POSITIVO,INCORRECTO,"RT @Martinminguchi: Las cifras de Medellín asombran. En todo el departamento de Antioquia, que tiene 6,4 millones de habitantes hay, hasta…"
-17,NEUTRO,CORRECTO,RT @el_telegrafo: Varios países del mundo han iniciado el lunes un lento proceso de reapertura de comercios y otras actividades públicas a…
-18,POSITIVO,INCORRECTO,"RT @Martinminguchi: Las cifras de Medellín asombran. En todo el departamento de Antioquia, que tiene 6,4 millones de habitantes hay, hasta…"
-19,POSITIVO,CORRECTO,"RT @Expresoec: #COVID19 | Entre los días 14 y 23 de mayo se llevaron a cabo más de 6,57 millones de test como parte de una campaña de detec…"
-20,NEGATIVO,INCORRECTO,RT @carolgrillito: ¡ATENTI!  Aquí parte de la desgraciada historia del morenato.   @Lenin en cambio mintiendo en la @AsambleaEcuador   http…
-21,POSITIVO,INCORRECTO,"RT @Martinminguchi: Las cifras de Medellín asombran. En todo el departamento de Antioquia, que tiene 6,4 millones de habitantes hay, hasta…"
-22,NEUTRO,CORRECTO,RT @JuanPablo_Alban: Coronavirus | De enfermedad respiratoria a multisistémica: cómo en pocas semanas cambió radicalmente lo que sabemos so…
-23,POSITIVO,INCORRECTO,"RT @revistavistazo: #MUNDO | Personas que habían tenido resultados positivos en pruebas de Coronavirus, dejaron de ser agentes infecciosos…"
-24,POSITIVO,CORRECTO,"¿Buscas posicionarte en el mundo digital? Somos expertos en marketing digital, tiendas online, fotografía y diseño gráfico. Escríbenos @socialitagencia #CreandoParaTi #25Mayo #QuedateEnCasa #coronavirus https://t.co/vtBIqMbXWH"
-25,POSITIVO,INCORRECTO,"RT @eluniversocom: Aerolínea Latam anunció nuevos despidos debido al coronavirus en Ecuador, Chile, Perú y Colombia. ► https://t.co/FW80hO2…"
-26,POSITIVO,CORRECTO,"RT @Expresoec: Debido a la emergencia del #coronavirus, Michela Pincay cerrará su local de Guayarte. Los detalles. 👇 https://t.co/28SuFqDy9m"
-27,NEUTRO,CORRECTO,"RT @Martinminguchi: Las cifras de Medellín asombran. En todo el departamento de Antioquia, que tiene 6,4 millones de habitantes hay, hasta…"
-28,NEUTRO,INCORRECTO,Cómo mutan los virus y cómo podría evolucionar el coronavirus | BBC Mundo https://t.co/IE4qKSQibS
-29,NEUTRO,INCORRECTO,RT @DiarioExtraEc: ¡Michela Pincay tuvo que cerrar su local de Guayarte! https://t.co/x2GUhRwGBl https://t.co/LAMFnuPKxu
-30,NEUTRO,INCORRECTO,RT @splendid1040: Trump prohíbe los vuelos desde Brasil por el coronavirus | AFP https://t.co/xdjqkMx1l2 https://t.co/Bo6kfF9X4B
-31,NEUTRO,INCORRECTO,"El inicio del próximo ciclo olímpico previsto para el 2021 quedó aplazado para el 2022, así como el mismo torneo, pero de Juventudes de 2020 a 2021. https://t.co/uMRRRjqucj"
-32,POSITIVO,INCORRECTO,"RT @angelrd: El PP y Cs entregan la presidencia de la Comisión para la Reconstrucción de Andalucía a VOX, el único grupo que votó en contra…"
-33,NEUTRO,INCORRECTO,"RT @Martinminguchi: Las cifras de Medellín asombran. En todo el departamento de Antioquia, que tiene 6,4 millones de habitantes hay, hasta…"
-34,POSITIVO,CORRECTO,"RT @Martinminguchi: Las cifras de Medellín asombran. En todo el departamento de Antioquia, que tiene 6,4 millones de habitantes hay, hasta…"
-35,POSITIVO,INCORRECTO,"En estos tiempos el peligro no es tener coronavirus, es infectarse del odio, del insulto, del chisme, de la acusación sin sustento, de la calumnia soterrada,  del me han dicho, que pulula asqueroso y artero por todas partes. Tapémonos los oídos a todo eso."
-36,NEUTRO,INCORRECTO,RT @CarlosVerareal: Alarmante aumento de casos de coronavirus en Quito | Ecuavisa // Qué falló allá? https://t.co/AFV332OShM
-37,POSITIVO,CORRECTO,"RT @Expresoec: La Organización Mundial de la Salud suspendió los ensayos con la hidroxicloroquina pero, ¿qué se conoce sobre este medicamen…"
-38,POSITIVO,CORRECTO,#URGENTE   ¡DOS NUEVOS CASOS DE CORONAVIRUS EN LA PREMIER LEAGUE TRAS UN COMUNICADO OFICIAL!   (AQUÍ LOS DETALLES) https://t.co/WviWqxZ3os https://t.co/A0c3K6DuMt
-39,NEUTRO,INCORRECTO,RT @Expresoec: La  Espol se suma a la búsqueda mundial de la vacuna contra el coronavirus: https://t.co/DCT8PXtixq
-40,POSITIVO,INCORRECTO,"@LoroHomero Con esas placas en dos patadas se puede averiguar TODO. Hay que escupirles y toserles a estos hptas, que el coronavirus haga lo suyo..   Ejemplo de lo peor que tenemos como especie.."
-41,NEUTRO,INCORRECTO,"RT @eluniversocom: Aerolínea Latam anunció nuevos despidos debido al coronavirus en Ecuador, Chile, Perú y Colombia. ► https://t.co/FW80hO2…"
-42,NEUTRO,CORRECTO,"RT @Primicias: Alfredo Palacio, expresidente de la República, acusa al Gobierno de Rafael Correa de haber destrozado el sistema de salud pú…"
-43,NEGATIVO,INCORRECTO,RT @CarlosVerareal: Alarmante aumento de casos de coronavirus en Quito | Ecuavisa // Qué falló allá? https://t.co/AFV332OShM
-44,NEUTRO,INCORRECTO,RT @eluniversocom: (Ampliación)  Casos de #coronavirusenEcuador según datos difundidos este lunes 25 de mayo de 2020 por las autoridades de…
-45,POSITIVO,CORRECTO,"#Atención #Entrevistaenvivo con Ing. Cecilia Andrade, Directora Regional Centro Sur y Mgs. Sebastián Verdugo, Coordinador Zonal Centro Sur. Tema: Retos de la educación superior no presencial en tiempos de coronavirus Este Martes 26 de Mayo a las 12:00 https://t.co/4U6Ub8afHy"
-46,NEUTRO,INCORRECTO,"RT @alfaT801: No permiten reunirse, no permiten despedirnos de nuestros muertos por el coronavirus, no permiten abrir parques, no permiten…"
-47,POSITIVO,INCORRECTO,"RT @aerogalapagos: Los aeropuertos de #Guayaquil y #Galápagos están listos para reiniciar sus operaciones, así lo explica el Presidente de…"
-48,POSITIVO,CORRECTO,"RT @Expresoec: La letalidad del coronavirus en #Quito se ha incrementado en un 226 %, desde el pasado 14 de mayo. Los detalles. ⬇️"
-49,POSITIVO,INCORRECTO,"RT @Expresoec: #Coronavirus: Decenas de personas aprovecharon la reapertura de algunas iglesias, este 25 de mayo, para visitarlas tras casi…"
-50,NEUTRO,INCORRECTO,RT @afpquito: 🇪🇨 Sindicatos y otros grupos sociales desafiaron las restricciones por el #coronavirus y organizaron marchas este lunes en va…
-51,NEUTRO,INCORRECTO,"RT @TelediarioEC: Estos son los casos globales de contagiados, muertos y recuperados por #Covid_19 hasta el lunes 25 de mayo de 2020.   Fue…"
-52,NEUTRO,CORRECTO,"RT @Expresoec: La letalidad del coronavirus en #Quito se ha incrementado en un 226 %, desde el pasado 14 de mayo. Los detalles. ⬇️"
-53,POSITIVO,CORRECTO,"RT @eluniversocom: Pacientes con coronavirus dejan de ser infecciosos después de 11 días, incluso si aún dan positivo en pruebas, sugiere e…"
-54,NEUTRO,INCORRECTO,"RT @Expresoec: La letalidad del coronavirus en #Quito se ha incrementado en un 226 %, desde el pasado 14 de mayo. Los detalles. ⬇️"
-55,POSITIVO,CORRECTO,RT @JuanPablo_Alban: Coronavirus | De enfermedad respiratoria a multisistémica: cómo en pocas semanas cambió radicalmente lo que sabemos so…
-56,NEUTRO,INCORRECTO,"RT @eluniversocom: Aerolínea Latam anunció nuevos despidos debido al coronavirus en Ecuador, Chile, Perú y Colombia. ► https://t.co/FW80hO2…"
-57,NEGATIVO,INCORRECTO,"@LaPosta_Ecu este alcohólico esta enfermo, ve a Correa hasta en el coronavirus, borracho despreciable ya estas con delirium tremens"
-58,NEUTRO,INCORRECTO,#URGENTE   ¡PRESIDENTE DE UN CLUB ECUATORIANO SE ENCUENTRA INTERNADO DEBIDO AL COVID-19!  (AQUÍ LOS DETALLES) https://t.co/VDA5Iyy6tA https://t.co/VM3U3mMUtT
-59,NEGATIVO,INCORRECTO,"RT @Martinminguchi: Aquí el video completo, no la versión cortada y humorística, donde Jaime Vargas habla de la conexión entre la educación…"
-60,NEUTRO,INCORRECTO,"RT @eluniversocom: Distribución de los casos de #coronavirusenEcuador, según información oficial difundida este lunes 25 de mayo de 2020. ►…"
-61,NEUTRO,INCORRECTO,"RT @Expresoec: La Organización Mundial de la Salud suspendió los ensayos con la hidroxicloroquina pero, ¿qué se conoce sobre este medicamen…"
-62,NEUTRO,CORRECTO,"RT @Martinminguchi: Aquí el video completo, no la versión cortada y humorística, donde Jaime Vargas habla de la conexión entre la educación…"
-63,NEUTRO,CORRECTO,"RT @Expresoec: #COVID19Ec | El equipo eléctrico comenzó hoy los exámenes médicos a toda su plantilla. Esperan el miércoles, con resultados…"
-64,POSITIVO,CORRECTO,"RT @eluniversocom: Pacientes con coronavirus dejan de ser infecciosos después de 11 días, incluso si aún dan positivo en pruebas, sugiere e…"
-65,NEUTRO,INCORRECTO,RT @CTwitteado: Ojo con el #coronavirus .
-66,POSITIVO,INCORRECTO,"RT @Expresoec: La letalidad del coronavirus en #Quito se ha incrementado en un 226 %, desde el pasado 14 de mayo. Los detalles. ⬇️"
-67,NEUTRO,CORRECTO,"RT @Martinminguchi: Las cifras de Medellín asombran. En todo el departamento de Antioquia, que tiene 6,4 millones de habitantes hay, hasta…"
-68,POSITIVO,INCORRECTO,"RT @alfaT801: No permiten reunirse, no permiten despedirnos de nuestros muertos por el coronavirus, no permiten abrir parques, no permiten…"
-69,NEUTRO,CORRECTO,"RT @eluniversocom: Con semáforo amarillo, el transporte urbano e interparroquial en Ambato retomó sus recorridos habituales. ► https://t.co…"
-70,POSITIVO,INCORRECTO,"RT @eluniversocom: Aerolínea Latam anunció nuevos despidos debido al coronavirus en Ecuador, Chile, Perú y Colombia. ► https://t.co/FW80hO2…"
-71,NEUTRO,CORRECTO,"RT @el_telegrafo: Suecia supera los 39 fallecidos por 100 mil habitantes debido al #coronavirus, causante de la enfermedad #covid_19, lo qu…"
-72,NEUTRO,INCORRECTO,"RT @Expresoec: La letalidad del coronavirus en #Quito se ha incrementado en un 226 %, desde el pasado 14 de mayo. Los detalles. ⬇️"
-73,NEUTRO,INCORRECTO,RT @CarlosVerareal: Alarmante aumento de casos de coronavirus en Quito | Ecuavisa // Qué falló allá? https://t.co/AFV332OShM
-74,NEUTRO,CORRECTO,RT @CarlosVerareal: Alarmante aumento de casos de coronavirus en Quito | Ecuavisa // Qué falló allá? https://t.co/AFV332OShM
-75,NEUTRO,CORRECTO,"RT @elnorteadiario: #Coronavirus A sus 39 años, los mismos con los que falleció su marido, Carvajal es quizás el caso más dramático de la c…"
-76,POSITIVO,INCORRECTO,"RT @GobiernoGuayas: @CLMoralesB Morales aseguró que pese al cambio de semáforo en algunos cantones, mantendrá acciones como entrega de alim…"
-77,POSITIVO,CORRECTO,RT @DetectiveDiario: Inició el paro en Ecuador en medio de la pandemia   Cientos de ecuatorianos vencieron el miedo al coronavirus y salier…
-78,POSITIVO,INCORRECTO,"RT @Martinminguchi: Las cifras de Medellín asombran. En todo el departamento de Antioquia, que tiene 6,4 millones de habitantes hay, hasta…"
-79,NEUTRO,INCORRECTO,"RT @ntubay: La @espol también va tras una vacuna contra el Covid-19.  Más que a la competencia global, apunta a crear una plataforma para p…"
-80,NEUTRO,INCORRECTO,"RT @Martinminguchi: Las cifras de Medellín asombran. En todo el departamento de Antioquia, que tiene 6,4 millones de habitantes hay, hasta…"
-81,NEUTRO,INCORRECTO,RT @Expresoec: La  Espol se suma a la búsqueda mundial de la vacuna contra el coronavirus: https://t.co/DCT8PXtixq
-82,POSITIVO,INCORRECTO,"Desde mediados de abril hasta el 23 de mayo, Guayaquil ha aumentado de 15,5 a 35 casos por cada diez mil personas. Quito ha ido de 2,3 a 11,5 en el mismo período. Lee el análisis completo de @mjavierrod e @ivanduespin https://t.co/M9zcbpYFpB"
-83,POSITIVO,INCORRECTO,"RT @Expresoec: La letalidad del coronavirus en #Quito se ha incrementado en un 226 %, desde el pasado 14 de mayo. Los detalles. ⬇️"
-84,POSITIVO,CORRECTO,RT @ChristianSuzuki: 71 días de emergencia y solo una política fallecida en Ecuador... que ineficiencia la del coronavirus para llevarse a…
-85,NEUTRO,CORRECTO,RT @CarlosVerareal: Alarmante aumento de casos de coronavirus en Quito | Ecuavisa // Qué falló allá? https://t.co/AFV332OShM
-86,POSITIVO,INCORRECTO,"RT @jorgeharbviteri: Coronavirus y tu Pu... madre, no vas a poder con Guayaquil... muy buen trabajo médicos y enfermeros del @OMNIHospital…"
-87,NEUTRO,CORRECTO,El arroz levanta un récord de consumo https://t.co/Ge1bdbPdeg
-0.6436781609195402,0.41379310344827586,0.04597701149425287,0.5402298850574713
+1,NEGATIVO,CORRECTO,Es viernes y el cuerpo lo sabe #cuarentenachallenge #actriz #cuarentena #ecuador #guayaquil #coronavirus #ecuatoriana #video #foto #fotografia #modelo #tiktokdance en Cuarentena En mi casa https://t.co/Re9krUfn45
+2,POSITIVO,CORRECTO,"ðŸ”´#PICHINCHA | Sólo quedan disponibles 83 camas para manejo de pacientes con coronavirus, esto ocurre cinco días antes de que Quito, ciudad que cuenta con todos los hospitales para atención de #covid19 de la provincia, pase a semáforo amarillo."
+3,NEGATIVO,CORRECTO,al maldito hay que quemarlo con eucalipto #Covid_19 #coronavirus #coronavirusenecuador https://t.co/FBlK4SVy3Y
+4,POSITIVO,INCORRECTO,"""#EMERGENCIA | #CORONAVIRUS Con tres vuelos semanales, #aeropuerto de #Manta reanudará servicio desde este lunes, 1 de junio. https://t.co/OotbD1OTt7"""
+5,NEGATIVO,CORRECTO,Jugadores del #BayernMunich aceptan nueva reducción de sueldos pese a reinicio de la #Bundesliga https://t.co/UPLHRmEkiv https://t.co/SfUyDxsZpt
+6,NEGATIVO,INCORRECTO,Temblores Racismo CoronaVirus Desunían Crisis económica No sé cuál de todas nos acabará primero
+7,NEGATIVO,CORRECTO,La apuesta es tu vida sino te cuidas /Estamos jugándonos una lotería con esta infección: experto frente a situación actual del #COVID_19 &gt,&gt,&gt, https://t.co/Wtcca3P0G3 https://t.co/ZRiRA8yugd
+8,POSITIVO,INCORRECTO,Expertos dicen que los planteles públicos no están en capacidad para recibir más alumnos. Las autoridades aseguran que hay cupos para todos. https://t.co/c4ZMpn6trq
+9,NEGATIVO,CORRECTO,Todavía no hay evidencia confiable que soporte la seguridad de abrir las escuelas al momento actual. #coronavirus #COVID19 https://t.co/DaMXQoS6l6
+10,POSITIVO,CORRECTO,"@Lenin utiliza al coronavirus para imponer una cruel política neoliberal. Xi Jimping utiliza al coronavirus para destruir la independencia de Hong Kong y anexarla de facto a la China continental. Dos caras de la moneda autoritaria, el entreguismo y el imperialismo."
+11,NEGATIVO,INCORRECTO,#Ecuador: Coronavirus: 60 % de dauleños ya se ha contagiado y eso permite que COE cantonal decida ir a verde || Diario El Universo || https://t.co/CR5yQy6aeL https://t.co/W240GAQQqX
+12,POSITIVO,CORRECTO,Aprueban en Rusia el primer medicamento contra el COVID-19 #coronavirus #Covid_19  https://t.co/ehopVB6ujM
+13,POSITIVO,INCORRECTO,¡CAZARES POSITIVO PARA COVID-19! #100xcientosports #futbol #internacional #notainternacional #atléticomineiro #mineiro #juancazares #cazares #Coronavirus #covid19 https://t.co/voiYx0omSG => https://t.co/TvRgsM1r8j
+14,NEGATIVO,INCORRECTO,"#Coronavirus | #ibarra #semaforoamarillo El proceso para las personas que normalmente usamos las mascarillas y guantes,  desde el distrito de salud se recomienda que se desinfecte estos desechos y sean colocados en una funda aparte"
+15,NEGATIVO,CORRECTO,Bulgaria apuesta por la vacuna antituberculosa contra el coronavirus - https://t.co/5daleh6hCF https://t.co/vMviFknt0R
+16,NEGATIVO,CORRECTO,"#Emergencia #Coronavirus #Rojo Desde el dí­a lunes 01 rigen nuevas dispociones , los vehí­culos particulares y motos  podrán circular 2 veces por semana de acuerdo al último número de su placa. Sábado y domingo Prohibido su circulación, evite sanciones por favor. Ws 0967782701 https://t.co/AhS6zLo5do"
+17,NEGATIVO,CORRECTO,Que bestia el año pasado mis papás tenían sus trabajos que les ha costado mucho mantener y dos negocios propios. Bastaron dos meses de coronavirus para que los ingresos de ambos se desplomen y los negocios quiebren.
+18,NEGATIVO,CORRECTO,[EN VIVO] ATENCIÓN: se confirma el fallecimiento de un paciente con coronavirus en el Hospital General de #Macas. Además se registra un primer contagio en el cantón San Juan Bosco https://t.co/k5vOSbJL94 #covid_19 #MoronaSantiago
+19,POSITIVO,CORRECTO,#FútbolEC En @CSEmelec se contabilizan cinco casos de #coronavirus , https://t.co/xi8h9u3Fsi https://t.co/Y9QQrbOisi
+20,NEGATIVO,INCORRECTO,"Extraño poder ejercer mi profesión como se debe, gracias coronavirus :("
+21,POSITIVO,CORRECTO,"Termina mayo y mi papá (84) me dice que la peste terminará en junio. Así­ dice cada vez que termina un mes. Es su manera de mantener vivas la fe y esperanza de un mundo sin coronavirus. Espero que sea pronto, para que pueda volver a abrazar a mis hermanos."
+22,NEGATIVO,CORRECTO,"#Perú: con cerca de 9.000 contagios en un dí­a, el coronavirus sigue batiendo récords https://t.co/qDPbNySbfN"""
+23,NEGATIVO,CORRECTO,Puros marihuaneros. El Coronavirus hará su magia. https://t.co/jLFMAZUp2T
+24,NEGATIVO,INCORRECTO,"He vuelto al mismo peso con el que inició la Universidad!!! Nunca pensé volver a pesar eso! Incluso nunca fue mi objetivo después de haber subido más de 120 lbs, bajar tanto, lo máximo que bajaba era hasta llegar a 113lbs.. Woow #Coronavirus que has causado en mi!"
+25,NEGATIVO,INCORRECTO,Al Coronavirus le gusta esto. https://t.co/b2X4fNiRE5
+26,NEGATIVO,CORRECTO,"Además de los datos globales de la pandemia, el COE informó que #Guayas sigue siendo la provincia con la mayoría de casos, agrupando el 46,6% de los mismos. Luego, en el orden de cantidad de casos, siguen #Pichincha, #Manabí y #LosRí­os. » https://t.co/nx6rjGOprH #Covid_19 https://t.co/rVbxb4yA8X"
+27,POSITIVO,CORRECTO,"Mi tí­o Guillermo Arosemena Arosemena, de intelecto como muy pocos, dando testimonio del poder de la oración. https://t.co/y9LvhKKaWZ #OremosJuntos #coronavirus"
+28,NEGATIVO,CORRECTO,"A la sombra de Brasil, Uruguay contiene el covid-19 con una de las cifras más bajas de la región https://t.co/fJK3OEibZs"
+29,NEGATIVO,CORRECTO,Los universitarios se han adaptado a cambios causados por el covid-19 https://t.co/WgbwsEHbnF https://t.co/9dVwxM4mg8
+30,NEGATIVO,CORRECTO,"Jugadores, cuerpo técnico y auxiliares se sometieron a las pruebas de coronavirus, para confirmar si hay o no contagiados. » https://t.co/cQfVqShWGv"
+31,NEGATIVO,INCORRECTO,Empresa china afirma que hay un 99 % de posibilidades de que su vacuna contra el covid-19 funcione - RT https://t.co/HqdDmw1A7C
+32,NEGATIVO,INCORRECTO,"Hoy, La Alcaldesa de #Guayaquil, @CynthiaViteri6, constató medidas de bioseguridad en el aeropuerto José Joaquín de Olmedo y entregó 7.000 pruebas rápidas de detección del #coronavirus #SucreEnLaNoticia https://t.co/oqWtdl6ihw"
+33,POSITIVO,CORRECTO,"#EMERGENCIA | #CORONAVIRUS Por desacato de #Emelec, el #COE Nacional suspendió #entrenamientos de deportistas profesionales. https://t.co/xQP1XF3CgD"
+34,NEGATIVO,INCORRECTO,Última hora sobre el #coronavirus en España y el mundo. https://t.co/M5YkZ74TAB
+35,NEGATIVO,CORRECTO,"@turcacat @lissetteCv6 La culpa es de Correa dicen !!  ( Aunque los valores no se los dió Correa, desde la casa ya vienen así, tienen en los genes en su ADN ) #pillodecuna #coronavirus"
+36,NEGATIVO,CORRECTO,COMUNICADO: Hace unas semanas la federación extrema de fútbol sala nos comunico en una reunión  que se daba por finalizada la temporada regular debido a la pandemia del Coronavirus (Covid-19) en nuestra https://t.co/NuRDT4mIqn
+37,NEGATIVO,INCORRECTO,"Dialogando con unas amigas de formas de hacerles entender a todos que -LOS ANIMALES DE COMPAÑÍA NO CONTAGIAN #coronavirus, QUE POR FAVOR NO LOS ABANDONEN https://t.co/guKym4npRs"
+38,POSITIVO,INCORRECTO,Donald Trump le da la espalda a la ONU por su mala administracion del coronavirus
+39,NEGATIVO,CORRECTO,"Deibert Román Guzmán se convirtió en el primer futbolista en perder la vida por coronavirus. El boliviano de 25 años jugaba en el club universitario de Beni, y en su momento, fue parte de las selecciones juveniles del paí­s andino. #Covid_19 #coronavirus https://t.co/3seSUYwSNu"
+40,POSITIVO,INCORRECTO,#GENTE | El músico argentino Charly García fue hospitalizado este sábado en una clínica de Buenos Aires con un cuadro febril aunque un primer estudio descartó que padezca coronavirus. https://t.co/ECmRiY0zTi https://t.co/VYhbzCa4T1
+41,POSITIVO,CORRECTO,El coronavirus es el perfecto desastre para el capitalismo del desastre. Naomi Klein https://t.co/HEnNwOIDyS
+42,NEGATIVO,CORRECTO,"Hay una norma que va más allá del lavado de manos, máscara y distancia, y que en nuestro paí­s muy poco se la cumple: el respeto a los demás. Ojo a lo que dice un médico intensivista del hospital del IESS de Cuenca y que encara todos los días al coronavirus en las UCIs: https://t.co/HmAx598ZFf"
+43,NEGATIVO,CORRECTO,"Desde mediados de abril hasta el 23 de mayo, Guayaquil ha aumentado de 15,5 a 35 casos por cada diez mil personas. Quito ha ido de 2,3 a 11,5 en el mismo perí­odo. Lee el análisis completo de @mjavierrod e @ivanduespin https://t.co/M9zcbqggh9"
+44,NEGATIVO,INCORRECTO,"VIDA JORGE GLAS CORRE PELIGRO DE MUERTE #GlasEsInocente Padece muchas dolencias, cuyo cuerpo, no resistiría el impacto del """"coronavirus"""". Médico ha ordenado traslado de celda, pero,Moreno,no lo hace. Si Glas MUERE, gobierno asesino será culpable.CRIMINALES. RT @JorgeGlas https://t.co/i9fWM8eLj9"
+45,NEGATIVO,INCORRECTO,¿Quiénes son los supercontagiadores del coronavirus COVID-19? https://t.co/qm1PFmy66t
+46,NEGATIVO,INCORRECTO,"@Vpar_Informa Sin tapabocas y pronuncio gritando las palabras mas transmisoras del coronavirus, Y TTTTTTUU SSSSSSSSIIIII?? :o"
+47,NEGATIVO,CORRECTO,"Lamentablemente, muere el más vulnerable y no el más idiota. #coronavirus"""
+48,NEGATIVO,CORRECTO,"Aunque todaví­a no podemos saber a ciencia cierta la relación entre la nicotina y el coronavirus, lo que sí tenemos claro es que el consumo de tabaco genera que las personas sean más propensas a padecer patologí­as respiratorias y puede incrementar la gravedad del COVID-19. https://t.co/UPbopbXUSc"
+49,NEGATIVO,CORRECTO,"En Santo Domingos fallece un adulto mayor con síntomas de coronavirus, brigadas del Ministerio de Salud Pública acudieron para la toma de pruebas de diagnóstico a las personas con sospecha y las que estuvieron cerca del fallecido. #kipuslaico https://t.co/l0uhhaCTnh"
+50,NEGATIVO,CORRECTO,"Ya hiciste una canción que hable del coronavirus del racismo etc etc y aún así no suenas, algo anda mal"
+51,POSITIVO,CORRECTO,Linda tarde para todos un poco de lectura no viene mal  #guayaquil  #ecuador  #happy  #2020 #coronavirus https://t.co/u40Ced4pJa
+52,NEGATIVO,CORRECTO,"Nueva Zelanda no tiene a ninguna persona hospitalizada por la COVID-19 tras haber dado de alta al último paciente ingresado y después de cinco dí­as en los que no se ha detectado caso alguno del nuevo coronavirus, informó el miércoles el Gobierno. https://t.co/DCHOogK7p4"
+53,NEGATIVO,INCORRECTO,Los manifestantes aumentan el riesgo de contraer y propagar el coronavirus https://t.co/ODR99BRtGu Clic https://t.co/6pQfslPd9K https://t.co/O31QWH6KjS
+54,NEGATIVO,CORRECTO,"El alcalde Wilson Cañizares Villamar manifestó a EXPRESO que el 60% de la población ya estuvo en contacto con el virus, pero al momento ya están sanos. https://t.co/RpPBfA48Uq"
+55,NEGATIVO,CORRECTO,"Con o sin cuarentena, la economí­a se cae | El coronavirus provocó la gran recesión global. El aislamiento social salva vidas y no es el causante del colapso de la actividad y el empleo https://t.co/HUJ6pimEpC a través de @Pagina12"
+56,POSITIVO,CORRECTO,"#Farándula | El músico argentino #CharlyGarcia fue hospitalizado de urgencia en #Argentina :o :o·, con un cuadro febril de 38 grados y dolores corporales. El artista fue sometido a la prueba rápida de detección del nuevo coronavirus, resultando negativo. https://t.co/1k5entLDdw"
+57,NEGATIVO,CORRECTO,#URGENTE ¡JUAN CAZARES DIO POSITIVO POR CORONAVIRUS! (AQUÍ LOS DETALLES) https://t.co/f0UX77XwU7 https://t.co/qhbl8WU39C
+58,NEGATIVO,CORRECTO,Jugadores del Bayern Munich aceptan nueva reducción de sueldos pese a reinicio de la Bundesliga https://t.co/XcHaQeoYbP https://t.co/hBtf3Jrmho
+59,NEGATIVO,INCORRECTO,"@InformatManabi @agustinintriago @CarlosVerareal Es una pena no conocí al difunto, pero así debería caerle coronavirus al ladro de Nathael, que al fin Pajan se libre de este ladrón hijo de puta."
+60,NEGATIVO,INCORRECTO,"Ya andate coronavirus, te odio."
+61,NEGATIVO,CORRECTO,"Fincas, haciendas, y comunidades rurales le apuestan al turismo! La ciudad de San Juan en Argentina, se está preparando para recibir a turistas una vez levantada la cuarentena »Aquí­ te dejamos más información https://t.co/RRY2WjniQ, Fuente: @AgenciaTelam #ElTurismoNosUne https://t.co/nFecCJB1i5"
+62,NEGATIVO,CORRECTO,@CodigoVidrioEc Qué tiene de malo esa noticia??? Están cometiendo algún delito o daños a la salud o a la parte social? #coronavirus #coronavirus #Ecuador @CancilleriaEc @OEA_oficial
+63,NEGATIVO,INCORRECTO,"Queremos una sociedad libre de corrupción? Empecemos por no pasarnos el semáforo, no saltarnos las filas de trámites, no copiar los exámenes, etc etc etc Que el #coronavirus   nos enseñe también a ser una mejor sociedad! #ecuador https://t.co/277SUQqJci"
+64,NEGATIVO,INCORRECTO,"Los cientí­ficos investigan si una centenaria vacuna contra la tuberculosis puede proteger contra el coronavirus. Y Bulgaria, uno de sus fabricantes mundiales, espera con ansia la apertura de nuevos mercados para los millones de dosis que produce cada año. https://t.co/hy3lXXgPL9"
+65,NEGATIVO,CORRECTO,"@alwaysimb siento que me voy a enfermar, con todo eso y la vaina del coronavirus... "
+66,NEGATIVO,INCORRECTO,"Los comentarios del mandatario se producen la misma semana en que las muertes por coronavirus en EE.UU. superaron las 100.000, la mayor cifra de fallecidos en el mundo."
+67,NEGATIVO,CORRECTO,#FútbolEC @Macara_Oficial suspende la realización de las pruebas por el #coronavirus , https://t.co/xiUAzP3lEz https://t.co/3zdnx5z759
+68,POSITIVO,CORRECTO,La Eco. #ElizabethCabezas ha empezado señalando la necesidad de buscar una salida unificada y oportuna ante la crisis del Coronavirus. https://t.co/aCfoqTCaxb
+69,NEGATIVO,CORRECTO,"INFÓRMATE #CORONAVIRUS INFÓRMATE PRIMERO Y MEJOR CON RUMBO A LA UNIVERSIDAD, PRIMER PREUNIVERSITARIO DE LA PROVINCIA DEL TUNGURAHUA. GET INFORMATION FIRST AND BETTER ON THE COURSE TO THE UNIVERSITY, FIRST PRE-COLLEGE IN THE PROVINCE OF TUNGURAHUA. https://t.co/HKMlIxC1g9"
+70,NEGATIVO,CORRECTO,Las protestas en #USA son registradas por los lentes de la misma ciudadanía. El conflicto social se viraliza y es más fuerte que el coronavirus. El Periodismo ciudadano ha registrado una realidad que supera la ficción. #EstadosUnidos https://t.co/DEQc9Scyed
+71,NEGATIVO,CORRECTO,"Muere el primer futbolista por coronavirus a los 25 años Los jovenes NO son inmunes al covid, como ellos se creen  https://t.co/vgWp7rQm4v a través de @elespanolcom"
+72,POSITIVO,INCORRECTO,"""La CIDH, expresa su muestra d alarma por la propagación d Covid-19 en pueblos indí­genas amazónicos del Ecuador Kichwa, Waorani, Achuar, Shuar, Siekopai y Shiwiar, ya q se reguistra 185 casos positivos, 10 fallecidos x covid -19 y 3 muertes sospechosas. https://t.co/mNt9F8N46n https://t.co/erKrs3otzy"""
+73,POSITIVO,INCORRECTO,#URGENTE | #ECUADOR #Militares que sepultaron #muertos por #coronavirus en Guayaquil reciben #terapias psicológicas. https://t.co/49jxiw6e2C
+74,POSITIVO,CORRECTO,"Estudio advierte ola de contagios en Quito, en los primeros días de julio https://t.co/UcqiWnUg2E"
+75,NEGATIVO,CORRECTO,"@CATERINAV @MiamiDadeCounty Con esto el gobierno demostró que les importa más lo material que las vidas humanas, ya que ni por el Coronavirus decretaron toque de queda .."
+76,NEGATIVO,INCORRECTO,#Covid_19 #coronavirus #EmergenzaCOVID19 #DerechosHumanos NO LES IMPORTA  #ecuadorenemergencia ni los #muerto . Los #sobreprecio #MascarillasCOVID19 #funda . https://t.co/TpC10VOdeM
+77,NEGATIVO,CORRECTO,Le Perthus es un pueblo que tiene que cumplir las medidas de España y de Francia para combatir el coronavirus.  https://t.co/YzZg0uQDpW https://t.co/E5OZn9B2kt
+78,NEGATIVO,INCORRECTO,"@LuchoBaldeon Por tipos como vos es que quisiera que el fútbol se lo llevara el coronavirus y desapareciera, es el mejor deporte pero para practicarlo uno mismo, no para estar con las tonterías de ser hincha de un equipo y sentirse importante por eso"
+79,NEGATIVO,CORRECTO,El número de casos de coronavirus en el mundo supera los seis millones https://t.co/XzKEjeIWzD a través de @UniNoticias
+80,NEGATIVO,CORRECTO,¿Desean saber cómo los diferentes paí­ses enfrentan el impacto del COVID19 en el mundo del trabajo y la protección social? Miren este enlace de @OITAndina. @CamaraCIP @lacamaragye @prensaceosl @CEDOCUT @GomezlRichard @ibarraserrano  https://t.co/uWdULHzKTW
+81,NEGATIVO,CORRECTO,"@Lenin @Produccion_Ecu @PNUDEcuador El trabajo en conjunto siempre trae resultados satisfactorios y en este caso usted presidente ha trabajo muy duro para que el paí­s recupere el rumbo que perdimos gracias al coronavirus, el paí­s se va recuperar de este mal momento. #EnMarchaDigital #AEcuadorLoSacamosTodos"
+82,POSITIVO,INCORRECTO,"La alcaldesa de Colimes, Jackeline  OrdoÃ±ez Murillo, confirmó que el 25 % de la población colimeña ya se contagió con la pandemia. https://t.co/4WBsAC3FJJ"
+83,POSITIVO,CORRECTO,Contamos con el mejor cardiólogo del Valle de los Chillos. ¡Tu corazón es lo más importante! Debes cuidarlo y hacerle su respectivo chequeo médico. Solo llámanos al: 022 345 222 / 098 704 1006 / 098 935 5632. #coronavirus #Covid_19 #COVID19Ecuador #Covid19Ec #COVID__19 https://t.co/5dOPEisyD9
+84,NEGATIVO,CORRECTO,944 casos positivos de COVID-19 registra la provincia Tsáchilas862 contagiados en el cantón Santo Domingo 82 contagiados en La Concordia Hasta el momento existen 73 fallecidos por coronavirus y 19 decesos probables de la pandemia. Fuente: COE provincial de Santo Domingo https://t.co/2NxZrojhBJ
+85,NEGATIVO,INCORRECTO,Luis Lacalle Pou permanecerá en cuarentena luego de que diera positivo por #coronavirus una persona con la que se reunió el lunes. Toda la información — https://t.co/k7iUIKlzyA
+86,POSITIVO,CORRECTO,Covid-19 en Ecuador: 38 571 casos confirmados y 5 463 muertes en el contexto de la pandemia https://t.co/B1v8I6DzrE
+87,NEGATIVO,INCORRECTO,Todos los días cambian la circulación de vehí­culos ya ponganse deacuerdo parecen niños pequeños #coronavirus #QuedateEnCasa #29May
+88,NEGATIVO,CORRECTO,#Emergencia #Coronavirus Con cariño seguimos dí­a a día #Torata #Chilca #LimonPlaya Muchas gracias a la empresa #FANOVA por las redes Ws 0967782701 https://t.co/cke2MbMVuj
+89,NEGATIVO,CORRECTO,ðŸ”´ #ÚltimaHora | Se registran 38571 casos confirmados de #coronavirus en #Ecuador. https://t.co/mHUnJzjwcl
+90,NEGATIVO,CORRECTO,Muy indignados por lo de Floyd pero cuando se enteraron que el coronavirus se propagaba rápidamente en Guayaquil soltaron a diario insultos en contra de los costeños y les molestaba que les llamen regionalistas. En fin la hipocresí­a.
+91,POSITIVO,INCORRECTO,"""[VIDEO] | Expertos no recomiendas tratamientos alternartivos para curar el #coronavirus. De hecho opinan que no tienen un sustento científico y podrí­an llegar a ser nocivos para la salud. » https://t.co/VTvXxnL1te #Covid_19"""
+92,NEGATIVO,CORRECTO,"Hoy, a las 10:30 comienza el rezo del rosario junto al papa Francisco contra el coronavirus https://t.co/y1Tvdzw24U https://t.co/TT5l0cB74J"
+93,NEGATIVO,CORRECTO,El Gualaceo SC fue el primer club del Azuay en ser tomadas las pruebas para #Covid_19: https://t.co/pVZz7Ad1Sj https://t.co/TuAuRrMxwL
+94,NEGATIVO,CORRECTO,"#WQEntretenimiento / Varios de los casinos más famosos de Las Vegas reabrirán la semana próxima tras dos meses de cierre debido a la pandemia de coronavirus, aunque respetando regulaciones sobre distanciamiento social https://t.co/8tw2FKC3IG https://t.co/iYl9yQr2bq"
+95,NEGATIVO,INCORRECTO,#Coronavirus: 60 % de dauleños ya se ha contagiado y eso permite que COE cantonal decida ir a verde https://t.co/gnPLg3LAcz https://t.co/e8MGVqjWMj
+96,POSITIVO,INCORRECTO,La OMS lanzó una plataforma para compartir tratamientos gratis y vacunas contra el #coronavirus https://t.co/jyNtaKc9k7
+97,NEGATIVO,CORRECTO,"#Ecuador: ""12 500 ecuatorianos fueron repatriados y 10 000 extranjeros salieron de Ecuador por crisis https://t.co/ws9LcdPf5e"" https://t.co/g6WkbfbgPX"
+98,NEGATIVO,CORRECTO,"Tras la muerte de un adulto mayor con sí­ntomas de coronavirus, brigadas toman pruebas en comunidad tsáchila https://t.co/odnpi5W1SU https://t.co/n5ZJfZ48Ex"
+99,NEGATIVO,INCORRECTO,Va a resultar que murió de coronavirus. Hay que ser hijos de puta para manipular así #BlackLivesMatter https://t.co/DEvQMJNTxA
+100,NEGATIVO,CORRECTO,"El sistema de salud tendrá el año más duro y talvez infeliz de su historia, lidiando con multitud de pacientes con enfermedades crónicas no transmisibles, y ahora heridos en protestas y sumado el Coronavirus, el sistema hospitalario de este país en riesgo de colapsar. https://t.co/JgeeolHand"
+101,NEGATIVO,INCORRECTO,Tres provincias de Castilla-La Mancha no registraron fallecidos por coronavirus en el dí­a de ayer https://t.co/0OV2DJK1bq https://t.co/E5MbzuSUoj
+102,NEGATIVO,CORRECTO,El dí­a de la Región se viste de luto en recuerdo a las ví­citmas mortales del coronavirus https://t.co/JKviTfQGOP
+103,NEGATIVO,CORRECTO,"Más de 15 días semáforo amarillo en Daule, ayer salió del hospital el último paciente de coronavirus .  No se escuchan nuevas emergencias."
+104,NEGATIVO,CORRECTO,Fin del confinamiento por coronavirus: qué puedes hacer para evitar contagiarte de covid-19 en diferentes situaciones https://t.co/vVbc63OIME
+105,NEGATIVO,CORRECTO,@VidsVirales_Ec Coronavirus hágale!!! Q quede vivo el mas apto...barra con esta miseria sr Virus
+106,NEGATIVO,CORRECTO,@ActualidadRT #Trump sabia del virus en #China hace semanas antes pero no tomo importancia del   #coronavirus Ahora se hace la victima en mi opinion es un presidente incapaz de gobernar Un gran pais qué es #EEUU
+107,NEGATIVO,CORRECTO,"#FútbolEC También hay tranquilidad en @ClubMushucRuna1 por no tener positivos para ""coronavirus"" https://t.co/Y0DnOBHnnI https://t.co/UMQKP21Yuv"
+108,NEGATIVO,CORRECTO,"Desde la @emov_ep se informa que el Sistema de Estacionamiento Rotativo Tarifado (SERT) #Cuenca,  se reactiva a partir de hoy, 28 de mayo. Los conductores deberÃ¡n adquirir las tarjetas de parqueo para poder estacionarse en las zonas respectivas. #Noticias #Ecuador #Coronavirus https://t.co/eBjyOo7k79"
+109,NEGATIVO,INCORRECTO,Hoy me levanto con buena actitud... solo pido que el coronavirus se vaya y nos deje estar en paz.. y que las naciones dejen de lucrarse q causa de esta trajedia mundial
+110,POSITIVO,CORRECTO,"El Rijksmuseum de Ámsterdam contará con una nueva obra en su exposición, un cuadro del siglo XVI del artista flamenco Spranger fue donado por un marchante de arte, en homenaje a las víctimas del coronavirus.  https://t.co/3WGz49Tiu2"
+111,NEGATIVO,CORRECTO,"Junto a rigurosos ensayos con células madre, hay charlatanería que se aprovecha para ofrecer tratamiento poco rigurosos contra el COVID-19. https://t.co/YC3LUJjiRb"
+112,NEGATIVO,INCORRECTO,"Hay mecanismos para que una vacuna contra el coronavirus se distribuya de forma equitativa, la cuestión es si los paí­ses y compañ­as harán uso de ellos"" https://t.co/nCKKX6Qn0"
+113,NEGATIVO,INCORRECTO,Sigue aumento de muertes y contagios en #Ecuador uno de los 5 Países que ha manejado la crisis del #Covid19 con mayor inepcia. RT en Español: Ecuador registra 642 nuevos casos de coronavirus y 102 muertes en las últimas 24 horas.https://t.co/vlzjsme0Sz a través de @GoogleNews
+114,NEGATIVO,CORRECTO,9 consejos para salir a la calle de manera segura y reducir el riesgo de contagiarte por coronavirus a medida que avanza la desescalada https://t.co/h4NiPedT3p
+115,NEGATIVO,INCORRECTO,Otro #Viernes encerrados. Alegrías para los asociales y tortura para los extrovertidos #coronavirus https://t.co/gs9zVov9TH
+116,NEGATIVO,INCORRECTO,"Qué poco ecuatoriano de mi parte, darme infección intestinal y no coronavirus"
+117,NEGATIVO,CORRECTO,Esos policías gorditos si se contagian de coronavirus se mueren... https://t.co/bEsp1BGW4p
+118,NEGATIVO,INCORRECTO,El coronavirus todavía existe por favor no bajemos la guardia cuidémonos mucho y seamos responsables con nosotros y nuestros familiares... https://t.co/eL0Pom0zF1
+119,NEGATIVO,CORRECTO,"Desde hace aproximadamente una semana, el número de nuevos casos diarios por #coronavirus se ha estabilizado en torno a los 100.000, y el de muertos supera los 4.000 por jornada. » https://t.co/ufoVyDroxM #Covid_19"
+120,NEGATIVO,INCORRECTO,"Bacilos cantó """"Pasos de gigante"""" para ayudar a alas_para_ecuador , fundación que confecciona y dona equipos de protección al personal médico de Ecuador bacilos.peru #sesiones #alasparaecuador #coronavirus https://t.co/CHmUimFAT2"
+121,NEGATIVO,CORRECTO,"@ecuavisa Es de la misma calaña que larreategui dueño de la UDLA demócrata popular los del feriado bancario ,hoy el del del feriado del coronavirus"
+122,NEGATIVO,CORRECTO,"¿Efecto de los gases lacrimógenos? ¿O será el Coronavirus? Dios bendito. https://t.co/EJZM5BbJHz"""
+123,NEGATIVO,CORRECTO,"Recuento: Enero incendios y posible 3ra guerra mundial Febrero: Coronavirus mundial Marzo: confinamiento Abril: meteorito en Guayaquil Mayo: protestas en EEUU por brutalidad policial (posibilidad de guerra civil) Junio: Tal parece, Anonymous Ni a Netflix se le hubiera ocurrido"
+124,NEGATIVO,INCORRECTO,Spike Lee no piensa volver a los cines hasta que haya una vacuna contra el coronavirus https://t.co/GmBwwbRbpy https://t.co/KtZxhZzWr5
+125,NEGATIVO,CORRECTO,3 utilidades de la IA y el machine learning para luchar contra el coronavirus https://t.co/aWBmD1LYla
+126,NEGATIVO,INCORRECTO,Asustada #coronavirus
+127,NEGATIVO,INCORRECTO,"¿Ha pensado hacer turismo en Wuhan, cuna del coronavirus? #ActualidadTuristicaEc https://t.co/lyhS9HBgSM El Universo https://t.co/oXd0GQNAQx"
+128,NEGATIVO,INCORRECTO,"#WVEenMedios @elnorteadiario millones de niños, niñas y adolescentes están expuestos a mayor riesgo de trabajo y matrimonio infantil debido a deterioro económico durante la emergencia... #COVID19 #coronavirus #CoronavirusEcuador https://t.co/NE32KuhsRv"
+129,NEGATIVO,CORRECTO,"Coronavirus: Nadie perderá este año lectivo, dice ministra de Educación Monserrat Creamer | ElUniverso https://t.co/WLx7r5NcMi https://t.co/Ex5uazTeKN"
+130,NEGATIVO,INCORRECTO,"#EMERGENCIA | #MANABÍ Conozca al #portovejense que se enfrentó a la #muerte en Wuhan, epicentro de la pandemia mundial por el #coronavirus. https://t.co/M7WaRTGtyl"
+131,NEGATIVO,CORRECTO,Emgirs colaboró en 41 levantamientos de cadáveres, la mayorí­a se recogieron en el sur de Quito https://t.co/zUcIuqdJGp https://t.co/h8IPjUvEie
+132,NEGATIVO,CORRECTO,"Cuando de defender derechos se trata la gente no tiene miedo y sale a las calles, ni el toque de queda ni el #coronavirus detienen a los manifestantes en EE. UU, país cuya #policía es violenta y racista."
+133,POSITIVO,CORRECTO,La investigación se realizó en un crucero con 132 infectados con #COVID19 de los cuales el 80% no presentaron sÍ­ntomas. https://t.co/IwEpYouem0
+134,POSITIVO,INCORRECTO,Atlético Mineiro reporta que ecuatoriano Juan Cazares dio positivo por coronavirus. Más detalles => https://t.co/hOoTlCEjgu https://t.co/7XWuvVZeSL
+135,POSITIVO,INCORRECTO,"Las cifras actualizadas del avance del coronavirus en Ecuador registran hoy, 31 de mayo, 39.098 casos confirmados en el paí­s y 3.358 personas fallecidas."
+136,POSITIVO,CORRECTO,"#ÚltimaHora | Más de 6 millones de casos de #coronavirus declarados en el mundo (6.000.867), incluidos 366.848 decesos. Europa es el continente más afectado (2.135.170 casos y 177.595 muertos) y Estados Unidos el país con más contagios (1.760.740 casos y 103.472 muertos) https://t.co/u6jignQBL1"
+137,NEGATIVO,CORRECTO,"Casos de #CoronavirusEnEcuador, hasta el sábado 30 de mayo: 38 843 confirmados (cifras oficiales fueron difundidas la madrugada de este domingo) https://t.co/KnbRry8FF1 https://t.co/SgOwY6XWle"
+138,NEGATIVO,CORRECTO,Oficialmente se cancelo el Press Start Tour algo que era evidente. te odio coronavirus PD: miren lo que ponen ustedes significan el mundo para nosotros que románticos son me hacen llorar  Jajajajajaj :( https://t.co/toCjnWacVc
+139,POSITIVO,CORRECTO,Ojalá la inmunidad contra el coronavirus sea como la Inmunidad Parlamentaria: puedes hacer lo que te de la gana y nunca te pasa nada.
+140,NEGATIVO,INCORRECTO,"Me paso algo singular tenia casi 2 meses que no salí­a de mi casa a recibir sol, hoy salí y regresó un camarón en menos de 30 mnts #coronavirus #cosasquepasan"
+141,NEGATIVO,INCORRECTO,"Ey tu coronavirus, no podrás con mis sueños https://t.co/kl2Pcc0zDX"
+142,NEGATIVO,INCORRECTO,600 enfermos de Coronavirus trasladados,12 bomberos muertos,300 incendios sofocados,17 ambulancias haciendo lo de 25,sin recursos al no recibir su tasa ni la gente paga permisos,"acusado de bombardear un detractor:Martín Cucalán De Icaza,mañana en @VERAZ_TWIT 21h45 @CanalUnoTv"
+143,NEGATIVO,CORRECTO,@kattycita1978 Me preocupa mucho el tema pues tengo una hija y no quisiera que caiga en el facilí­simo de una sociedad edonista y muy cómoda que piensa que la única forma de ganar dinero honesto es ser influencer o YouTuber. Es muy triste que el Coronavirus los haya vuelto a la realidad!!!
+144,NEGATIVO,CORRECTO,#COVID19 Reportan más de 6 millones de casos de coronavirus en el mundo - https://t.co/SL0z5pAhOX https://t.co/FGgYExW1w9
+145,NEGATIVO,CORRECTO,"Podrán escaparse del coronavirus, pero no de las serpientes espaciales. #COVID19 https://t.co/2DeckwklF9"
+146,NEGATIVO,CORRECTO,"#Salud | Los derrames cerebrales suelen ser más graves en pacientes con coronavirus #Covid19, además de que pueden presentarse en personas cada vez más jóvenes, alertó un especialista &gt",&gt,&gt,https://t.co/N9mvrUk86b https://t.co/dlW0gBza1B
+147,NEGATIVO,CORRECTO,"""#Derechito"" nos tiene un gran mensaje. Nos enseñará a lavarnos correctamente las manos para cuidar nuestra salud y protegernos del Coronavirus. Sigue paso a paso sus recomendaciones. #JuntosSaldremosAdelante #LávateLasManos #GuayaquilCiudadDeDerechos @alcaldiagye https://t.co/t2oGvv6HlR"
+148,NEGATIVO,CORRECTO,Incendio en el Centro Comercial Hermano Miguel. #Quito #coronavirus https://t.co/kmLlqi7a2f
+149,NEGATIVO,CORRECTO,"A medida que el coronavirus continúa afectando nuestra rutina diaria y economía, debemos mantener una actitud positiva y de perseverancia frente a la vida. @CVillanueva50km, el mejor ejemplo para hablar de resiliencia. #AEcuadorLoSacamosTodos https://t.co/SE8YehIHvr"
+150,POSITIVO,INCORRECTO,@RebecaSH6 @KimberlyLoaiza_ Esa tipa o tipo tiene tiempo para crearse un perfil falso y andar buscando fotos de una señora Diablos coronavirus llévate a estas personas que no hacen nada a la sociedad solo estorban.
+151,POSITIVO,INCORRECTO,Las cifras de contagios de #Covid_19 del 30 de mayo se dieron a conocer en la madrugada del domingo 31 de mayo. El MSP (@Salud_Ec ) registra 272 nuevos casos de #coronavirus en #Ecuador. » https://t.co/6pW8R7uB7b https://t.co/wGLvUfFosl
+152,NEGATIVO,INCORRECTO,El sector público compró pruebas de coronavirus hasta por 85 dólares https://t.co/1MG23Z3d3K
+153,NEGATIVO,CORRECTO,El grupo de investigación en Química informática y Nutrición realizó un estudio con un medicamento para uso humano y otro para veterinario que demostraron la capacidad de inhibir una enzima para la propagación del #virus. Detalles en => https://t.co/XEnmUKxx5z https://t.co/ml8QmANPAu
+154,NEGATIVO,CORRECTO,"El coronavirus señores: el corona... Ah qué caso tiene, mejor que ya nos contagiemos todos, colapse el sistema sanitario y ahí sobrevivan quien pueda. Ya no se puede. Ya no twitteare más sobre aglomeraciones y más. Ya no entienden. https://t.co/QCoz3APtHI"
+155,NEGATIVO,CORRECTO,Más de 6 millones de casos de coronavirus declarados en el mundo - https://t.co/zgwznnME6W https://t.co/zO2FASh13y
+156,NEGATIVO,INCORRECTO,"@PastorasGetafe gracias por esta eucaristía de la LUZ, mi oración por las ví­ctimas del coronavirus y sus familias. Unidos en la fe y la oración. #Pentecostes2020 https://t.co/zVqwiXxZxD"
+157,NEGATIVO,INCORRECTO,El machismo mata más que el coronavirus.
+158,POSITIVO,INCORRECTO,El sector sur aglomera la mayor cantidad de casos de levantamientos en #Quito. Hay 41 cadáveres encontrados en ví­as y domicilios. https://t.co/AVLaORHugm
+159,NEGATIVO,CORRECTO,"¿El coronavirus?, ¿La coronavirus? Ambas expresiones son correctas. El virus. La enfermedad. A veces, la crí­tica llega por el desconocimiento. #Cuenca #Ecuador https://t.co/yxNetVxg4A"
+160,NEGATIVO,CORRECTO,"#CovidAlDí­a | CIFRAS DIARIAS DEL CORONAVIRUS EN ECUADOR (29/05/2020) *Datos entregados por @Riesgos_Ec * Estas son las cifras que ha arrojado el #Covid19Ec. Actualizadas del Viernes 29 de Mayo del 2020, en el país. #NosCuidamosTodos #JuntosNosCuidamos #Covid19Ecuador https://t.co/rzxhZEgABZ"""
+161,NEGATIVO,CORRECTO,#LoMásVisto Letalidad del coronavirus podría ser menor de lo que pensaba la OMS https://t.co/3La9BTpkQQ
+162,NEGATIVO,CORRECTO,Insomnio en cuarentena por coronavirus: ¿Por qué sucede y cómo evitarlo?  https://t.co/i6kNOkWt2U https://t.co/cWRQebduyh
+163,NEGATIVO,INCORRECTO,#ATENCIÓN Mapa de casos detectados por provincia coronavirus en Ecuador. https://t.co/wkygL3odlN
+164,POSITIVO,CORRECTO,Amigos así­ no se puede o es coronavirus o es temblor :c
+165,NEGATIVO,INCORRECTO,"Y aquí vemos que el CORONAVIRUS, no es nada para todo lo que nos merecemos como humanidad. No hemos aprendido nada. Absolutamente nada. https://t.co/nQhlG6RqnQ"
+166,POSITIVO,CORRECTO,@aponcev1 @ACervantes_EC Imagine Doctor tamaño despropósito. Y ahora que los jueces todo lo quieren hacer telemáticamente, si su coraje tuvieran los médicos no habría habido un galeno atendiendo pacientes de Coronavirus..!
+167,NEGATIVO,CORRECTO,"El volante ecuatoriano, Juan Cazares, que actualmente milita en #AtleticoMineiro , dio positivo de #Coronavirus. El jugador no presenta síntomas y está en aislamiento. https://t.co/RIrYVGlhqx"
+168,NEGATIVO,CORRECTO,"#Emergencia #Coronavirus Durante la pandemia y en todo mi Administración hemos apoyado a estos centros ( Fundación Génesis y Casa Hogar Nuevo Espíritu ) que nos ayudan a recuperar  a las personas , para reisentarlas a la sociedad. Hoy personalmente fuimos a visitarlos y https://t.co/UugmTelwqr"
+169,NEGATIVO,CORRECTO,"INFORMACIÓN Aunnque un poco tarde pero toda acción es buena, aún aí­, los Machaleños no olvidaremos las mentiras y engaños en tiempos de CORONAVIRUS. #Ecuador #Machala #Periodismo #periodismomovil #politica #ElOro https://t.co/e3qvZ7XcIK"""
+170,POSITIVO,CORRECTO,"Hasta el sábado 30 de mayo Ecuador registró 38.843 casos positivos de coronavirus, mientras que la cifra de fallecidos en el contexto de la pandemia es de 5.494. https://t.co/cAwpaBFSW4 https://t.co/rD9e98MVeU"
+171,NEGATIVO,INCORRECTO,Solo mi papá me da todos los días una copa de vodka para combatir al coronavirus jajaja
+172,NEGATIVO,CORRECTO,#NOTICIAS:  Las 7 comunidades Tsáchilas fueron declaradas en estado de emergencia por los casos de Covid-19 que se registran en la etnia," hasta el momento, el nuevo coronavirus deja como saldo un fallecido y varios casos positivos confirmados. (MP) https://t.co/goSW3Ck7On"
+173,POSITIVO,CORRECTO,"Que no sólo corren peligro del coronavirus sino de que los lastimen, por favor @UNICEFenEspanol @SaveChildrenEs reclamar que @MinGobiernoEc no le importa la salud tanto física como mental de los niños #Ecuatorianos juntos contra la injusticia y buscando un mundo mejor"
+174,NEGATIVO,CORRECTO,"@MashiRafael ECUADOR SE DESPLOMA ANTE LA MIRADA INTERNACIONAL, ESTAMOS LUCHANDO UNA GUERRA CONTRA DOS VIRUS SILENCIOSOS Y MORTALES,CORONAVIRUS Y LA PANDEMIA DE LA CORRUPCIÓN, AMBOS MATAN POR IGUAL,EL UNO MATA POR SALUD, Y EL OTRO MATA DE HAMBRE Y POBREZA. SE NOS HAN ROBADO HASTA LA ESPERANZA https://t.co/gpa7U0IqV8"
+175,NEGATIVO,CORRECTO,"A las 2h20 de este domingo, @Salud_Ec  envío el reporte  estadístico de #CoronavirusEnEcuador del sábado 30 de mayo. Se registraron 38.843 casos positivos de #Covid_19"," 3.346 personas fallecidas con diagnóstico confirmado de #coronavirus, y 2.148 muertes probables. https://t.co/2aCW6gPMTm"
+176,NEGATIVO,INCORRECTO,¿Coronavirus hasta cuándo te jodes? https://t.co/PBRVByJyqd https://t.co/pDadgWpoQS
+177,POSITIVO,INCORRECTO,No entiendo la lógica de prohibir que la gente salga el domingo. ¿Alguien me explica? ¿Será que es el dí­a que más le gusta pasear al coronavirus?
+178,POSITIVO,CORRECTO,La ejecutiva de la Unión Europea propuso esta mañana un fondo de recuperación de $825.000 millones para ayudar a la economía del bloque en la dura recesión provocada por la pandemia del coronavirus. Para más información: https://t.co/T6i8I6dgQ0 https://t.co/usUwjSS4zM
+179,NEGATIVO,CORRECTO,#COVID19: A pesar de que GADs quiren pasar de semáforo rojo a amarillo o verde, #Ecuador tiene la cuarta tasa de letalidad más alta en la región - https://t.co/mRmdW9wyuK
+180,NEGATIVO,CORRECTO,@ROBINNOVOA Insisten tanto en regresar teniendo compaÃ±eros con CORONAVIRUS??
+181,NEGATIVO,CORRECTO,#URGENTE | #MANABÍ Dos casos de #coronavirus en la #cárcel de mujeres de #Portoviejo. https://t.co/n5j04IoXIE
+182,POSITIVO,INCORRECTO,"Con el 🚦 amarillo, voy mejor protegido. #coronavirus #Covid_19 #Guayaquil #semaforoamarillo #SemaforoEc #semaforogye https://t.co/CMNcWh6gGH"
+183,POSITIVO,CORRECTO,Los Asambleistas que para la niñez y juventud sólo son un pésimo ejemplo tienen Plan de Celular e Internet GRATIS y los profesores que si educan y guÃ­an pasan penurias. Me duele mi #Ecuador las injusticias. #coronavirus #cuarentena #EducacionEnCrisis https://t.co/yNZukoislz
+184,NEGATIVO,CORRECTO,#DerechosHumanos de los #GLBT bueno no extraña pues la @AsambleaEcuador esta llena de diputados #Homofobicos #Guayaquil aparte de sufrir la crisis humanitaria por el coronavirus también sufre #homofobia y #Discriminación por favor @WRadioec @WRadioColombia @bbcmundo
+185,NEGATIVO,CORRECTO,#PREFECTURA DE LOS RÍOS ENTREGA MEDICINA #GRATUITA PARA PACIENTES DE POSITIVOS DE #CORONAVIRUS. Llama ahora!! - #TeranPrefecto https://t.co/1TiOBLcyFa
+186,NEGATIVO,CORRECTO,"@cherryblossomg Es full creepy... Creo que la reacción de los ecuatorianos me puso más nerviosa que todo el coronavirus, octubre y todas mis incertidumbres y ansiedades juntas..."
+187,NEGATIVO,CORRECTO,Con semáforo en amarillo casi toda la industria de #Cuenca se reactiva para salir de su stock https://t.co/ls5dywBARl https://t.co/iCu0wH8GmI
+188,POSITIVO,INCORRECTO,La arquera de Excursio con coronavirus recibió el alta https://t.co/R6ZCf1R2mM https://t.co/uFzeI0Qj7H
+189,POSITIVO,CORRECTO,Los alcaldes de la provincia del Guayas que le brindan total respaldo a Carlos Luis Morales son iguales de pillos que él. Todos roban y se aprovechan del coronavirus para el lleve y trae con sobreprecios! https://t.co/9JxWG6uL24
+190,POSITIVO,CORRECTO,Coronavirus: 427.646 personas que entraron a Ecuador eran ˜sospechosas https://t.co/rtnwjBpQX6
+191,NEGATIVO,INCORRECTO,Coronavirus | De enfermedad respiratoria a multisistómica: cómo en pocas semanas cambió radicalmente lo que sabemos sobre la covid-19 https://t.co/NXLN0lQhoz
+192,POSITIVO,CORRECTO,"#VocesDeLaCiudad | Cristian Rivera, Docente de la Facultad de Atención Pre-hospitalaria de la Universidad Central del Ecuador. Gran porcentaje está en manos de los ciudadanos para prevenir el contagio del coronavirus cumpliendo 4 medidas básicas: uso adecuado de elementos...1/3"
+193,POSITIVO,INCORRECTO,Un desinfectante podría proteger superficies del coronavirus por 90 días - Infobae https://t.co/HtMDqicaOt
+194,POSITIVO,CORRECTO,"Celebramos un año más el Shavuot. Este año la festividad judí­a coincidió con apertura de hoteles y atractivos turísticos, lo cual provocó que decenas de miles de israelíes los visiten tras meses de encierro por el coronavirus. Lea la noticia completa en: https://t.co/MkabvpBPUf https://t.co/qPRq9cImzi"
+195,NEGATIVO,INCORRECTO,"@LoroHomero Al menos sabemos que tiene claro el protocolo de bioseguridad contra el coronavirus y su regla No.1 LAVARSE LAS MANOS! No intente confundir a la ciudadanía, así sea candidato, su responsabilidad política y administrativa está intacta. Asuma su rol."
+196,NEGATIVO,CORRECTO,Un estudio sugiere que el coronavirus se afianza en el cuerpo humano a través de la nariz https://t.co/sebS1zg0vo https://t.co/1oHISNgf4j
+197,NEGATIVO,INCORRECTO,"La situación actual del país por el coronavirus me tiene tan estresado, tanto desempleo, tanta crisis económica, tantas personas siendo corridas de sus arriendos, tantas empresas quebrando... "
+198,NEGATIVO,CORRECTO,"#ECUADOR, | #CORONAVIRUS Más de 37 mil llamadas relacionadas con #borrachos ha recibido el #ECU_911 durante la #emergencia. https://t.co/MfoBAiYqpg"
+199,NEGATIVO,CORRECTO,Lo peor del coronavirus es pedirle a alguien que sea tu novia antes de la pandemia y ahora te dija nose es que te siento distante que te pasa no puedo salir pues
+200,NEGATIVO,INCORRECTO,En la primera semana en amarillo hubo casi 700 nuevos casos de coronavirus en Quito. Más información https://t.co/zZ9fjNkVrl https://t.co/drG5TZQqSH
+201,NEGATIVO,CORRECTO,¿Qué mascarillas puede comprar? ¿Cómo debe utilizarlas? PRIMICIAS le presenta una guía práctica. » https://t.co/hlEN35hk2u https://t.co/hGFgv2KqVw
+202,NEGATIVO,INCORRECTO,"#Emergencia #Coronavirus #Rojo Desde el lunes  01 de Junio en Santa Rosa los taxis y transporte mixto , pueden laborar cumpliendo todos los protocolos de bioseguridad Aclaramos que Fuera de nuestro cantón , se acogerán a las regulaciones, disposiciones y sanciones https://t.co/lIraMy2yuK"
+203,POSITIVO,INCORRECTO,"Así­ hacen frente al coronavirus los indígenas de la Amazoní­a ecuatoriana (y cómo se preparan para una pospandemia de hambre, desempleo y trueque) https://t.co/NFTHE0ALpV"
+204,NEGATIVO,CORRECTO,@drfrosero @UTEoficial Utilizo Covid o coronavirus en general en posts y webinars para dejar a lado el tecnicismo y llegar a una audiencia más amplia. No todos mis seguidores son del área de ciencia.
+205,NEGATIVO,INCORRECTO,"La Defensoría del Pueblo presentó una acción de protección para las familias que aún no pueden localizar los restos mortales de sus parientes, que fallecieron durante la emergencia sanitaria por el COVID-19 en Guayaquil. https://t.co/qtkc9wHvic"
+206,NEGATIVO,CORRECTO,"#Contexto | La industria y el comercio vuelven poco a poco. Hay ejemplos de buenas prácticas, de directivos y empleados, para no dejar morir a las empresas. @Jean_Cano @Gianna Benalcazar Los detalles: https://t.co/3qHDHFfufM"
+207,NEGATIVO,CORRECTO,"Hoy nos sumamos al #ProgramaLupa, una colaboración entre 10 paÃ­ses de América Latina, coordinada por @SaludconLupa, para cubrir el covid-19 y sus efectos en el continente. Este es el primer reportaje que responde ¿cómo salen de cuarentena nuestros países? https://t.co/6tylx5bi6T"
+208,NEGATIVO,CORRECTO,Cuando tienes 24 pero tus últimos meses te los caga el Coronavirus https://t.co/R14ya8A39W
+209,NEGATIVO,CORRECTO,Coronavirus: Quito llegó el lunes al pico de demandas de camas en hospitales públicos - https://t.co/ITxOPBJeeI https://t.co/eBazjhWfun
+210,POSITIVO,INCORRECTO,"Sábado 30 de mayo: Cuenca, de nuevo sin fallecidos a causa de coronavirus aunque registra 10 nuevos casos https://t.co/VIypWGM8tQ"
+211,NEGATIVO,INCORRECTO,El informe de este miércoles sobre la emergencia sanitaria del #CoronavirusenEcuador registra 3.700 de personas recuperadas.    https://t.co/4bExfeMJKM
+212,NEGATIVO,INCORRECTO,"Halo solar #Guayaquil y así cerramos Mayo.... coronavirus, temblor y halo solar... que será de junio en este 2020 https://t.co/Rc9AdStkZs"
+213,NEGATIVO,CORRECTO,"La cifra oficial de personas que se recuperaron de #Covid_19 en  #Ecuador ascendió a 3.700, según informó el Ministerio @Salud_Ec, la mañana de este miércoles 27 de mayo de 2020. Detalles https://t.co/yPjys0V0fQ https://t.co/bfVUohGGbB"
+214,POSITIVO,INCORRECTO,"Definitivamente no estamos preparados... la anarquía en este país es algo cultural, no quiero ni imaginarme los protocolos de Bioseguridad. #CoeNacional #LigaPro #coronavirus FEF https://t.co/Z0ll4vQAYD"
+215,POSITIVO,CORRECTO,#Noticias 4 paí­ses de América Latina que lograron aplicar estrategias exitosas de educación a distancia ante la pandemia https://t.co/OTgJGpda0U #Coronavirus #EducaciÃ³n #EducaciónADistancia
+216,POSITIVO,CORRECTO,"Cómo terminaron las epidemias de SARS y MERS, otros coronavirus para los que no hay vacuna https://t.co/gL36gG9XmI"
+217,NEGATIVO,INCORRECTO,"ðSi tenías sí­ntomas o dudas del #Coronavirus COVID-19, contactate con la lí­nea de atención ciudadana al 148. No te automediques y permaneció en tu domicilio #QuedateEnCasa #CuidarteEsCuidarnos https://t.co/21TwGvi4XK"
+218,NEGATIVO,INCORRECTO,#CoronavirusenEcuador: Chone decide paso a semáforo amarillo desde el 3 de junio. https://t.co/vCyN7UJ5GC https://t.co/6AuFLlVZUf
+219,POSITIVO,INCORRECTO,"Nueve semanas. Ya van dos meses que nos despertamos cada mañana con las cifras de los muertos, las historias de los muertos, los ecos de los muertos: la muerte en la cabeza. Reflexiones en medio de la peste x martin_caparrosa en @nytimesa  https://t.co/XTIVKFIjWZ"
+220,NEGATIVO,CORRECTO,La aplicación francesa #StopCovid para rastrear contactos en caso de contagio con el nuevo coronavirus superó el umbral del millón de usuarios. La app permite a los usuarios ser informados si cruzaron en las últimas dos semanas a otro usuario contagiado de coronavirus. https://t.co/BMZKCIfOEU
+221,POSITIVO,CORRECTO,"Forma parte del Multifest School! En esta ediciÓn, la temática para desarrollar los trabajos es: El coronavirus en el Ecuador. Cuéntanos, en una propuesta, las diferentes representaciones gráficas y visuales sobre esta pandemia. https://t.co/y04VFf4XJe https://t.co/GqWgbOjmBg"
+222,POSITIVO,CORRECTO,"Que todos lo que marchan hoy, firmen que no van a solicitar cama en urgencias, ni ninguna otra cosa que brinde el Estado. Que los dejen a su libertad para lo que quieren,no necesitan al Estado para nada. Ni barbijo usan, si no se cuidan ellos,no van a cuidar al otro. #coronavirus"
+223,NEGATIVO,CORRECTO,"Samborondón, que pasó de semáforo rojo a amarillo el 18 de mayo, es el segundo cantón de mayor prevalencia en el país: hay 67 casos de coronavirus por cada 10 mil habitantes. https://t.co/M9zcbqggh9"
+224,POSITIVO,CORRECTO,"@Ethan_P27 No, por que el instagram te vuelve autista y el 5g da coronavirus."
+225,NEGATIVO,INCORRECTO,#COVID19 | El accidente cerebrovascular es la segunda causa de muerte en la mayoría de paí­ses de Latinoamérica https://t.co/qa31z69bbm
+226,POSITIVO,CORRECTO,Todo lo injusto que fue la muerte de Floyd pero en serio están protestando así en tiempo de coronavirus? Va a haber contagio masivo!
+227,NEGATIVO,INCORRECTO,"Desde la tristeza que nos asola, con el recuerdo de todas las víctimas fallecidas por Coronavirus, toda la fuerza y el ánimo para superar esta crisis en el Día de Castilla-La Mancha. Y, de nuevo gracias a los profesionales y ciudadanos que habéis velado por todos nosotros."
+228,POSITIVO,CORRECTO,Coronavirus: las lecciones que podemos aprender de Asia para prepararnos para una segunda ola del covid-19 https://t.co/ybHDfF62pV
+229,NEGATIVO,CORRECTO,Premier League: Los equipos limpios de #coronavirus de cara al reinicio de la temporada  Más detalles https://t.co/7POmBEX4BF
+230,NEGATIVO,CORRECTO,Todos esos rateros que han robado a costa del dolor de muchos con el pretexto del #Covid_19 cuando sintieron el temblor han de haber temblado y pedido perdón por sus pecados. Si se arrepienten talvez Dios los perdone pero acá pagarán tras las rejas. #Ecuador #SISMO #coronavirus
+231,NEGATIVO,INCORRECTO,Por eso están como están con el coronavirus :( https://t.co/szX5hovNX2
+232,NEGATIVO,INCORRECTO,Debido al desempleo se han abierto muchos negocios de venta de comida a domicilio que se manejan por redes sociales. https://t.co/hG9yQBI9c4
+233,POSITIVO,INCORRECTO,"@AlertaNews24 Coronavirus más bomba lagrimogena, igual a?"
+234,NEGATIVO,INCORRECTO,"Bueno, y como vamos con la #vacuna del #coronavirus? Ya me tiene arrecho este virus hijueputa!"
+235,POSITIVO,CORRECTO,"Hoy @TurismoCuencaEC y @MinturZonal6 iniciaron la inspección a establecimientos de alojamiento #Cuenca, para verificar el cumplimiento del protocolo de bioseguridad. El hotel Santa LucÃ­a aplicó todos los protocolos y se activará con 25% de aforo. #Noticias #Coronavirus #Ecuador https://t.co/8IzJ6B7cWf"
+236,NEGATIVO,INCORRECTO,"El Concejo Cantonal hoy, 30 de mayo, aprobó la Ordenanza para Promoción y Fortalecimiento de la Movilidad Activa en el cantón #Cuenca. Fuente: @MunicipioCuenca #Noticias #Ecuador #Coronavirus https://t.co/OQMw5Vu9s4"
+237,NEGATIVO,CORRECTO,Coronavirus y temblor. https://t.co/OrPdnjjG0w
+238,NEGATIVO,CORRECTO,"Y un doble trasplante salvó la vida del joven  Francesco tras dos meses en la UCI: ""El coronavirus le había quemado los pulmones"" https://t.co/wMsuF01IsK"
+239,NEGATIVO,INCORRECTO,Nueva Zelanda da de alta a su último paciente con covid-19 https://t.co/QzMJTNwz8d 
+240,POSITIVO,INCORRECTO,"#ECUADOR | El ministro de Salud, @DrJuanCZevallos, indicó que un total de 2.794 personas se incorporaron al trabajo en primera línea para enfrentar el coronavirus a nivel nacional. https://t.co/EfDcB5U6Zz"
+0.375,0.25416666666666665,0.7458333333333333,0.0
