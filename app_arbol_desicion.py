@@ -4,14 +4,16 @@ from controller.nlp import *
 import pandas as pd
 
 # EXTRACCIÓN DE TWEETS
-data = pd.read_csv("results/clasificacion_coseno_vectorial.csv", error_bad_lines=False)
+data = pd.read_csv("model/Dataset.csv", error_bad_lines=False)
 tweets = data[data.columns[2]]
+print(tweets)
 sentimiento = data[data.columns[1]]
 sentimiento = sentimiento.values.tolist()
 
 # NLP
 respaldo = tweets.values.tolist()
 tweets = tweets.values.tolist()
+print(tweets)
 tweets = nlp(tweets)
 
 # CLASIFICACION

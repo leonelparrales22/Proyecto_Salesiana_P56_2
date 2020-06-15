@@ -5,6 +5,7 @@ import re
 
 def normalizacion(textos):
     for i, texto in enumerate(textos):
+        texto = str(texto)
         texto = texto.lower()
         texto = re.sub("[^A-Za-z0-9’áéíóúÁÉÍÓÚ]+", ' ', texto)
         textos[i] = texto

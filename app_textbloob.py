@@ -19,10 +19,13 @@ def run_textbloob():
         sentimiento = eb.sentiment[0]
         if sentimiento < 0:
             data.append(str(contador) + ";" + "NEGATIVO" + ";" + str(texto))
+            contador_negativos += 1
         if sentimiento > 0:
             data.append(str(contador) + ";" + "POSITIVO" + ";" + str(texto))
+            contador_positivos += 1
         if sentimiento == 0:
             data.append(str(contador) + ";" + "NEUTRO" + ";" + str(texto))
+            contador_neutros += 1
         contador += 1
     contador = contador - 1
     contador_positivos = contador_positivos / contador
