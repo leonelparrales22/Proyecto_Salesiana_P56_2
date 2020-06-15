@@ -48,15 +48,17 @@ def tabla_jaccard(texto):
 def tabla_arboles():
     data = pd.read_csv("results/clasificacion_arboles.csv", error_bad_lines=False)
     jaccard = np.array(data[:-1])
+    print(jaccard)
     id = []
     sentimiento = []
     tweet = []
-
+    acertividad = []
     for row in jaccard:
         id.append(int(row[0]))
         sentimiento.append(row[1])
-        tweet.append(row[2])
-        dato = {'id': id, 'sentimiento': sentimiento, 'tweet': tweet}
+        acertividad.append(row[2])
+        tweet.append(row[3])
+        dato = {'id': id, 'sentimiento': sentimiento, 'tweet': tweet, 'acertividad': acertividad}
     return dato
 
 

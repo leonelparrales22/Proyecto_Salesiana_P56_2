@@ -24,12 +24,58 @@ def plot_jaccard():
     return Response(output.getvalue(), mimetype='image/png')
 
 
+@app.route('/plot_arboles.png')
+def plot_arboles():
+    fig = create_figure2("Árboles de Desición", "results/clasificacion_arboles.csv")
+    output = io.BytesIO()
+    FigureCanvas(fig).print_png(output)
+    return Response(output.getvalue(), mimetype='image/png')
+
+
+@app.route('/plot_arboles2.png')
+def plot_arboles2():
+    fig = create_figure3("Árboles de Desición", "results/clasificacion_arboles.csv")
+    output = io.BytesIO()
+    FigureCanvas(fig).print_png(output)
+    return Response(output.getvalue(), mimetype='image/png')
+
+
 @app.route('/plot_textblood.png')
 def plot_textblood():
     fig = create_figure("TextBlob", "results/clasificacion_textbloob.csv")
     output = io.BytesIO()
     FigureCanvas(fig).print_png(output)
     return Response(output.getvalue(), mimetype='image/png')
+
+
+def create_figure2(titulo, ruta):
+    data = pd.read_csv(ruta, error_bad_lines=False)
+    data = data.values.tolist()
+    data = data[-1]
+    labels = 'Correctos', 'Incorrectos'
+    sizes = [1 - data[0], data[0]]
+    explode = (0, 0)
+    fig, ax1 = plt.subplots()
+    fig.suptitle('Cálculo del Error - ' + titulo, fontsize=16)
+    ax1.pie(sizes, explode=explode, labels=labels, autopct='%1.1f%%',
+            shadow=True, startangle=90)
+    ax1.axis('equal')
+    return fig
+
+
+def create_figure3(titulo, ruta):
+    data = pd.read_csv(ruta, error_bad_lines=False)
+    data = data.values.tolist()
+    data = data[-1]
+    labels = 'Neutros', 'Negativos', 'Positivos'
+    sizes = [data[3], data[2], data[1]]
+    explode = (0, 0, 0)
+    fig, ax1 = plt.subplots()
+    fig.suptitle('Clasificación de Tweets - ' + titulo, fontsize=16)
+    ax1.pie(sizes, explode=explode, labels=labels, autopct='%1.1f%%',
+            shadow=True, startangle=90)
+    ax1.axis('equal')
+    return fig
 
 
 def create_figure(titulo, ruta):
@@ -58,7 +104,7 @@ def textblood():
     return render_template("textblood.html", title="Clasificacion TextBlood", tabla=tabla_textbloob(texto))
 
 
-@app.route('/regresion', strict_slashes=False)
+@app.route('/regresion', methods=['GET', 'POST'], strict_slashes=False)
 def regresion():
     return render_template("regresion.html", title="Clasificacion Arboles", tabla=tabla_arboles())
 

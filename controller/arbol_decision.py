@@ -9,7 +9,6 @@ def clasificacion_arbol_de_desicion(tweets, respaldo, sentimiento):
     diccionario = crearDiccionario(tweets)
     bolsa = bolsa_de_palabras(diccionario, tweets)
     bolsa = bolsa.transpose()
-    print(bolsa.shape)
     bolsa = np.append(bolsa.transpose(), np.array([respaldo]), axis=0)
     bolsa = bolsa.transpose()
 
@@ -25,15 +24,43 @@ def clasificacion_arbol_de_desicion(tweets, respaldo, sentimiento):
     X_train = X_train.astype(np.float)
     X_test = X_test.astype(np.float)
 
+    print(y_test)
+
     # Modelo de Árboles de Decisión Clasificación
     algoritmo = DecisionTreeClassifier()
     algoritmo.fit(X_train, y_train)
     Y_pred = algoritmo.predict(X_test)
     print('Precisión Árboles de Decisión Clasificación: {}'.format(algoritmo.score(X_train, y_train)))
 
-    contador = 0
+    contador = 1
     data = []
-    for x, y in zip(c_X_train, Y_pred):
-        data.append(str(contador + 1) + ";" + y.replace('\n', ' ') + ";" + str(x[-1]))
+    contador_correctos = 0
+    contador_incorrectos = 0
+    contador_positivos = 0
+    contador_negativos = 0
+    contador_neutros = 0
+    for x, y, z in zip(c_X_train, Y_pred, y_test):
+        if y == "POSITIVO":
+            contador_positivos += 1
+        if y == "NEGATIVO":
+            contador_negativos += 1
+        if y == "NEUTRO":
+            contador_neutros += 1
+
+        if y == z:
+            validacion = "CORRECTO"
+            contador_correctos += 1
+        else:
+            validacion = "INCORRECTO"
+            contador_incorrectos += 1
+        data.append(
+            str(contador) + ";" + y.replace('\n', ' ') + ";" + validacion + ";" + str(x[-1]))
         contador += 1
+    contador = contador - 1
+    contador_incorrectos = contador_incorrectos / contador
+    contador_positivos = contador_positivos / contador
+    contador_negativos = contador_negativos / contador
+    contador_neutros = contador_neutros / contador
+    data.append(str(contador_incorrectos) + ";" + str(contador_positivos) + ";" + str(
+        contador_negativos) + ";" + str(contador_neutros))
     return data

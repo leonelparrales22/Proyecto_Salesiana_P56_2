@@ -2,27 +2,33 @@
 {% extends "base.html" %}
 
 <section id="two" class="wrapper style2">
-{% block content %}
+    {% block content %}
 
-<h1>{{title}}</h1>
-</br>
-<table class="table">
-    <thead class="thead-dark">
-            <th >Id</th>
-            <th >Sentimiento</th>
-            <th ><center>Tweet</center></th>
+    <h1>{{title}}</h1>
+    </br>
+    <table class="table">
+        <thead class="thead-dark">
+        <th>Id</th>
+        <th>Sentimiento</th>
+        <th>Acertividad</th>
+        <th>
+            <center>Tweet</center>
+        </th>
         </tr>
-    </thead>
-    <tbody class="bg-success">
-    {% for i in range(tabla['id']|count) %}
+        </thead>
+        <tbody class="bg-success">
+        {% for i in range(tabla['id']|count) %}
         <tr>
             <th scope="row">{{ tabla['id'][i]|tojson|safe }}</th>
-            <td class="bg-info"> {{ tabla['sentimiento'][i] }} </td>
-            <td class="bg-success"> {{ tabla['tweet'][i] }} </td>
+            <td class="bg-info"> {{ tabla['sentimiento'][i] }}</td>
+            <td class="bg-info"> {{ tabla['acertividad'][i] }}</td>
+            <td class="bg-success"> {{ tabla['tweet'][i] }}</td>
         </tr>
-    {% endfor %}
-    </tbody>
-</table>
+        {% endfor %}
+        </tbody>
+    </table>
+    <img src="plot_arboles.png" alt="my plot">
+    <img src="plot_arboles2.png" alt="my plot">
 
-{% endblock%}
+    {% endblock%}
 </section>
